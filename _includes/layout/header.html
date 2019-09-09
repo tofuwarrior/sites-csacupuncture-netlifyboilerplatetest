@@ -1,0 +1,73 @@
+{% comment %}
+
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+
+	Name:
+
+		Site header
+
+	Description:
+
+		Site header and navigation.
+		Set "header_class" to "alt" in the page frontmatter
+		to blend the header with the page.
+
+	Example:
+
+		{% include layout/header.html %}
+
+{% endcomment %}
+
+<!-- Header -->
+	<header id="header" class="{{ include.class }}">
+           
+		<h1><a href="{{ site.baseurl }}/">
+                         <!--{% include components/logo-horizontal.html %}-->
+                         {% include components/logo-horizontal-svg.html %}
+			<!--{{ site.title }} <span>{{ site.tagline }}</span>-->
+		</a></h1>
+		<nav id="nav">
+			<ul>
+                            <li><a href="{{ site.baseurl }}/" class="submenu fa-angle-down">Home</a>
+                             
+                                    <ul>
+                                        <li><a href="{{ site.baseurl }}/left-sidebar.html">Left Sidebar</a></li>
+                                            <li><a href="{{ site.baseurl }}/right-sidebar.html">Right Sidebar</a></li>
+                                            <li><a href="{{ site.baseurl }}/no-sidebar.html">No Sidebar</a></li>
+                                            <li><a href="{{ site.baseurl }}/elements.html">Elements</a></li>
+                                    </ul>
+                            </li>
+                            <li>
+                                    <a href="/about-acupuncture.html"  class="submenu fa-angle-down">About Acupuncture</a>
+                                    <ul>
+                                            <li><a href="/what-is-acupuncture.html">What is Acupuncture</a></li>
+                                            <li><a href="/how-does-it-work.html">How does it work?</a></li>
+                                            <li><a href="/what-can-acupuncture-treat.html">What can Acupuncture treat?</a></li>
+                                            <li><a href="/what-is-medical-acupuncture.html">What is Medical acupuncture?</a></li>
+                                            <li><a href="/acupuncture-safety.html">Acupuncture Safety</a></li>
+                                    </ul>
+                            </li>
+                            <li>
+                                <a href="/about-me.html" class="submenu fa-angle-down">About Me</a>
+                                    <ul>
+                                        <li><a href="/why-did-i-train-as-an-acupuncturist.html">Why did I train as an Acupuncturist?</a></li>
+                                            <li><a href="/biography.html">Biography</a></li>
+                                            <li><a href="/biography.html">Testimonials</a></li>
+                                            <li><a href="/training-and-qualifications.html">Training & Qualifications</a></li>
+                                            <li><a href="/professional-standards.html">Professional Standards</a></li>
+                                            <li><a href="/insurance.html">Insurance</a></li>
+                                    </ul>
+                            </li>
+                            <!--<li><a href="{{ site.baseurl }}/how-to-book.html">How to Book</a></li>-->
+                            <li><a href="{{ site.baseurl }}/common-questions.html">Common Questions</a></li>
+                            <li><a href="{{ site.baseurl }}/what-to-expect.html">What To Expect</a></li>
+                            <li><a href="{{ site.baseurl }}/prices.html">Prices</a></li>
+                            <li><a href="{{ site.baseurl }}/contact.html">Contact</a></li>
+                           
+                            <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+                            <li><a href="{{ site.baseurl }}/how-to-book.html" class="button">Book an Appt</a></li>
+			</ul>
+		</nav>
+	</header>

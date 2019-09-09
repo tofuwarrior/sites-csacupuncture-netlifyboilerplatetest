@@ -1,0 +1,33 @@
+---
+
+---
+
+{% comment %}
+
+	
+	Name:
+
+		Tiled  navigation links excerpt layout
+
+	Description:
+
+		A layout for individual navigation tiles
+
+	Example:
+
+		---
+		layout: navtile
+		---
+
+{% endcomment %}
+
+<section class="post"> NAVTILE LAYOUT
+        <span class="image"><img src="{{ site.baseurl }}{{ page.image }}" alt="" /></span>
+        <div class="content">
+                <h3>{{ page.title }}</h3>
+                <p>{{ page.excerpt | remove: "<p>" | remove: "</p>" }}</p>
+                        <ul class="actions">
+                                <li><a href="{{ page.url }}" class="button">More</a></li>
+                        </ul>
+        </div>
+</section>

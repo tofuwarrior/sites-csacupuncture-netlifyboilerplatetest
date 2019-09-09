@@ -1,0 +1,32 @@
+{% comment %}
+
+
+
+		{% include layout/testimonials.html %}
+
+{% endcomment %}
+
+<h2>What Patients Say</h2>
+
+<!--<section class="spotlight" id="testimonials">-->
+<section id="testimonials" class="slider">
+        {% for testimonial in site.testimonials %}
+            <article data-position="{{ slide.position }}">
+                    <img src="{{ testimonial.image }}" title ="{{ testimonial.excerpt | strip_html}}" >
+                        {% if testimonial.showexcerpt %}
+                                <div class="inner   {% if testimonial.darkback %}dark{%endif%}">
+                                     <i>{{ testimonial.excerpt | truncate: 200}} </i>
+                                     <p><strong>{{ testimonial.name | remove: "<p>" | remove: "</p>" }}, {{ testimonial.place | remove: "<p>" | remove: "</p>" }}</strong></p>
+                                 </div>
+                        {% endif %} 
+            </article>
+        {% endfor %}
+</section>
+<br><br>
+    <ul class="actions">
+            <li><a href="/what-patients-say.html" class="button">Read more...</a></li>
+    </ul>
+
+
+    
+    

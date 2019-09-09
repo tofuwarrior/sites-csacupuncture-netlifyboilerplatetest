@@ -1,0 +1,48 @@
+---
+layout: sidebar
+sidebar_align: {{page.sidebar_align}}
+---
+
+{% comment %}
+
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+
+	Name:
+
+		Main page layout with sidebar 
+
+	Description:
+
+		A layout where content is displayed alongside the sidebar.
+                There is a page title and also a featured image
+		Allows defining the sidebar orientation on each page.
+
+	Example:
+
+		---
+		layout: main-page-sidebar
+		sidebar_align: right
+		---
+
+{% endcomment %}
+
+{% if page.noslider %}
+        {% if page.image %}
+                <span class="image fit">
+                        <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}">
+                </span>
+        {% endif %}
+
+        <header class="major">
+            <h2>{{ page.title }}</h2>
+            {% if page.subtitle %}
+                <p>{{ page.subtitle}}</p>
+            {% endif %}
+        </header>
+{% else %}
+   {% include components/banner-single.html  %}
+{% endif %}
+
+{{ content }}

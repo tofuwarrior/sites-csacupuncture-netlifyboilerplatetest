@@ -14,12 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jekyll Netlify Boilerplate
-email: your-email@example.com
+email: paul@clearspringacupuncture.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml.
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
 url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
+
+# Plugins
+plugins: ["jekyll-paginate"]
 
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
@@ -34,10 +37,6 @@ netlifycms: true
 # set to 'true' to enable Google Analytics tracking code in production builds
 analytics: false
 
-# Compress CSS
-sass:
-  style: compressed
-  sass_dir: _sass
 
 # Compress HTML (in liquid via layouts/compress.html)
 compress_html:
@@ -55,6 +54,9 @@ defaults:
 
 # Build settings
 markdown: kramdown
+style: compressed
+sass:
+  sass_dir: assets/sass
 
 # Kramdown options
 kramdown:
@@ -82,3 +84,23 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+
+
+collections:
+    posts:
+        output: true
+    pages:
+        output: true
+    navtiles:
+        output: false
+    bannerslides:
+        output: false
+    posttiles:
+        output: false
+    features:
+        output: false
+    customtags:
+        output: false
+    testimonials:
+        output: false  
