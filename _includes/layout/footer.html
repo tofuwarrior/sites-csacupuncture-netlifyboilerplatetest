@@ -1,0 +1,122 @@
+{% comment %}
+
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+
+	Name:
+
+		Site footer
+
+	Description:
+
+		Contact info, form, and footer.
+
+	Example:
+
+		{% include layout/footer.html %}
+
+{% endcomment %}
+
+<!-- Contact -->
+ 	
+<section id="contact-trigger" class="wrapper ">
+    <div class="inner">
+                  	
+            <section>
+      <h2>Please get in Touch</h2>
+                <blockquote> If something is troubling you, now is the best time to ask about it so please get in touch. <br/><strong>You can get in touch now using your preferred method shown below.</strong> If you just want advice, that is absolutely fine, I am an Acupuncturist because I love supporting people so will spend as much time as you need talking about your situation.
+                    </blockquote>
+</section>
+    </div>
+</section>
+    
+    
+<section id="contact" class="wrapper split">
+		<div class="inner">
+            <section>
+              
+				<ul class="bulleted-icons">
+                                        <li>
+						<span class="icon-wrapper"><span class="icon fa-phone"></span></span>
+						<h3>Phone</h3>
+						<p><a href="tel:+44-02920-140-054">02920 140 054</a></p>
+					</li>
+                                        <li>
+						<span class="icon-wrapper"><span class="icon fa-mobile-phone"></span></span>
+						<h3>Mobile</h3>
+						<p><a href="tel:+44-07968576233">07968 576233</a></p>
+					</li>
+					<li>
+						<span class="icon-wrapper"><span class="icon fa-whatsapp"></span></span>
+						<h3>Whats App</h3>
+						<p><a href="https://wa.me/4407968576233">click to what's app me</a></p>
+					</li>
+					
+					<li>
+						<span class="icon-wrapper"><span class="icon fa-facebook"></span></span>
+						<h3>Facebook Messenger</h3>
+						<p><a href="http://m.me/">Click to Message me</a></p>
+					</li>
+                                        <li>
+						<span class="icon-wrapper"><span class="icon fa-envelope"></span></span>
+						<h3>Email</h3>
+						<p><a href="mailto:paul@clearspringacupuncture.co.uk">paul@clearspringacupuncture.co.uk</a></p>
+					</li>
+					<li>
+						<span class="icon-wrapper"><span class="icon fa-twitter"></span></span>
+						<h3>Twitter</h3>
+						<p><a href="https://www.twitter.com/csacupuncture">@csacupuncture</a></p>
+					</li>
+					<li>
+						<span class="icon-wrapper"><span class="icon fa-facebook"></span></span>
+						<h3>Facebook Page</h3>
+						<p><a href="https://www.facebook.com/clearspringacupuncture">@clearspringacupuncture</a></p>
+					</li>
+
+
+				</ul>
+			</section>
+			<section>
+			
+				<form method="post" action="#">
+					<div class="row gtr-uniform">
+						<div class="col-6 col-12-large col-6-medium col-12-xsmall">
+							<label for="name">Name</label>
+							<input type="text" name="name" id="name" />
+						</div>
+						<div class="col-6 col-12-large col-6-medium col-12-xsmall">
+							<label for="email">Email</label>
+							<input type="email" name="email" id="email" />
+						</div>
+						<div class="col-6 col-12-large col-6-medium col-12-xsmall">
+							<label for="email">Phone Number</label>
+							<input type="email" name="tel" id="tel" />
+						</div>
+						<div class="col-12">
+							<label for="message">Message</label>
+							<textarea name="message" id="message" rows="5"></textarea>
+						</div>
+						<div class="col-12">
+							<ul class="actions">
+								<li><input type="submit" value="Send Message" class="primary" /></li>
+								<li><input type="reset" value="Reset" /></li>
+							</ul>
+						</div>
+					</div>
+				</form>
+			</section>
+		
+		</div>
+	</section>
+
+<!-- Footer -->
+	<footer id="footer">
+		<div class="inner">
+			<p class="copyright">&copy; {{ site.time | date: '%Y' }} Clear Spring Acupuncture. All rights reserved. .</p>
+			<ul class="menu">
+				<li><a href="#">Terms<span> of Use</span></a></li>
+				<li><a href="privacy-policy.html">Privacy<span> Policy</span></a></li>
+			</ul>
+		</div>
+	</footer>

@@ -1,34 +1,38 @@
 ---
-layout: default
+layout: no-sidebar
 ---
-{% assign author = site.data.authors[page.author] %}
 
-<h2>{{ page.title }}</h2>
+{% comment %}
 
-<time datetime="{{ page.date }}">
-  <small>
-    <strong>{{ page.date | date_to_string }}</strong>
-    {% if author %}
-      by {{ author.name }}
-    {% endif %}
-  </small>
-</time>
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
 
-{% include page-intro.html %}
+	Name:
+
+		Blog Post layout
+
+	Description:
+
+		A layout for individual Blog Posts.
+
+	Example:
+
+		---
+		layout: post
+		---
+
+{% endcomment %}
+
+<header>
+	<h1>{{ page.title }}</h1>
+	<p>{{ page.date | date: "%B %-d, %Y" }}</p>
+</header>
+
+{% if page.image %}
+	<span class="image fit">
+		<img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}">
+	</span>
+{% endif %}
 
 {{ content }}
-
-<nav aria-label="Adjacent Posts">
-  <ul>
-    {% if page.previous.url %}
-      <li>
-        <a href="{{page.previous.url}}" rel="prev">&laquo; {{page.previous.title}}</a>
-      </li>
-    {% endif %}
-    {% if page.next.url %}
-      <li>
-        <a href="{{page.next.url}}" rel="next">{{page.next.title}} &raquo;</a>
-      </li>
-    {% endif %}
-  </ul>
-</nav>

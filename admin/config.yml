@@ -44,3 +44,53 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
+  - name: "navtiles"
+    label: "Navigation Tiles"
+    folder: "_navtiles"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "navtile"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Url", name: "url", widget: "string"}
+      - {label: "Tags", name: "customtags", widget: "relation", collection: "customtags", displayFields: ["customtag"], searchFields: ["customtag"],  valueField: "customtag",  multiple: true, required: false}
+  - name: "features"
+    label: "Feature Tiles"
+    folder: "_features"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "navtile"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Icon", name: "icon", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Url", name: "url", widget: "string"}
+      - {label: "Tags", name: "customtags", widget: "relation", collection: "customtags", displayFields: ["customtag"], searchFields: ["customtag"],  valueField: "customtag",  multiple: true, required: false}
+  - name: "customtags"  
+    label: "Custom Tags"
+    folder: "_customtags"
+    create: true
+    fields:       
+      - {label: "Layout", name: "layout", widget: "hidden", default: "customtag"}
+      - {label: "tag", name: "tag", widget: "string"}
+  - name: "bannerslides"
+    label: "Banner Slides"
+    folder: "_bannerslides"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Url", name: "url", widget: "string"}
+      - {label: "Tags", name: "customtags", widget: "relation", collection: "customtags", displayFields: ["customtag"], searchFields: ["customtag"],  valueField: "customtag",  multiple: true, required: false}
+  - name: "testimonials"
+    label: "Testimonials"
+    folder: "customcollections/_testimonials"
+    create: true
+    fields:
+      - {label: "excerpt", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "string"}
+      - {label: "location", name: "location", widget: "string"}
+      - {label: "name", name: "name", widget: "string"}
+      - {label: "Show Excerpt", name: "showexcerpt", widget: "boolean", default: false}
+      - {label: "Show Dark Background", name: "darkback", widget: "boolean", default: true}      

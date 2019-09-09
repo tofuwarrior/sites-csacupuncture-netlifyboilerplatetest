@@ -1,23 +1,98 @@
 ---
 layout: default
+<!--header_class: alt-->
+features:
+- icon: fa-pencil
+  title: Can Acupuncture Help Me?
+  excerpt: I combine the ancient wisdom of Traditional Acupuncture with evidence-based research to create comprehensive treatments that nourish balance and restore health.
+  url: about-acupuncture.html
+- icon: fa-paper-plane
+  title: Am I the right Acupuncturist for you?
+  excerpt: I provide individualised, patient-centered treatments that are tailored to address what matters to you. I believe in nourishing people from the inside out and forming long lasting relationships based on trust and integrity.   Click to find out more about my approach.
+  url: about-me.html#myapproach
+- icon: fa-cloud
+  title: What Should I Expect?
+  excerpt: Expect to feel cared for, kindly & professionally, to be listened to carefully, taken seriously and expect to feel better.
+  url: common-questions.html#whatshouldiexpect
+- icon: fa-cloud
+  title: How Do I Book An Appointment?
+  excerpt: Booking is simple, just visit this page where you can quickly and easily book online.
+  url: how-to-book.html
+
+posts:
+- image: /images/pic01.jpg
+  title: Congue portitor
+  excerpt: Aenean ultricies magna non sapien rhoncus, ac ullamcorper lorem convallis. Quisque at venenatis nisi, amet finibus mauris. Sed sodales ultricies eros, sit amet sodales sapien.
+  url: "#"
+- image: /images/pic02.jpg
+  title: Duis nisl euismod
+  excerpt: Ultrices nec metus. Aenean ultricies magna et sapien rhoncus ac ullamcorper lorem convallis. Quisque at venenatis nisi amet finibus mauris. Sed sodales ultricies magna etiam.
+  url: "#"
+- image: /images/pic03.jpg
+  title: Elementum auctor
+  excerpt: Quis interdum. Lorem quis lacus justo. Sed libero condimentum vehicula sem vel, mattis amet mauris. Nullam lacinia sit amet felis vel vestibulum. Morbi aliquam aenean.
+  url: "#"
+- image: /images/pic04.jpg
+  title: Urna vel lacinia
+  excerpt: Integer vel tincidunt lacus. Nulla augue nunc, eleifend quis leo ac, maximus interdum tellus. Etiam at vestibulum felis, id efficitur risus. Praesent ac nulla ex. Duis elementum.
+  url: "#"
+- image: /images/pic05.jpg
+  title: Neque et suscipit
+  excerpt: Libero condimentum, vehicula sem vel, mattis mauris. Nullam lacinia sit amet felis vel vestibulum. Morbi in aliquam est. Aenean dapibus porttitor nulla ultrices venenatis.
+  url: "#"
+- image: /images/pic06.jpg
+  title: Vestibulum placerat
+  excerpt: Tristique tellus et ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent mauris risus, pellentesque eu leo non, tincidunt.
+  url: "#"
 ---
 
-<h2>{{ page.title }}</h2>
 
-  {% include page-intro.html %}
+{% comment %}
 
-  {{ content }}
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
 
-  <section>
+	Name:
 
-    <h3>Recent posts from the blog</h3>
+		Home page
 
-    <ul>
-      {% for post in site.posts limit:3 %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
+	Description:
 
-  </section>
+		Site home page.
+
+{% endcomment %}
+
+{% include components/banner.html customtag="slider-home-main" %}
+
+<!-- One -->
+	<section id="one" class="wrapper major-pad">
+		<div class="inner">
+                    
+                    {% include layout/testimonials.html  %}
+			
+		</div>
+	</section>
+
+<!-- Two -->
+	<section id="two" class="wrapper content-pad">
+		<div class="inner">
+			{% include components/features.html features=page.features width="quarter" %}
+			
+		</div>
+	</section>
+
+<!-- four -->
+	<section id="four" class="wrapper content-pad">
+		<div class="inner">
+			{% include components/navtiles.html customtag="tiles-home" title="" %}
+		</div>
+	</section>
+
+<!-- seven -->
+	<section id="seven" class="wrapper style2">
+		<div class="inner">
+			<h2>Latest Blogs</h2>
+			{% include components/posts.html posts=page.posts %}
+		</div>
+	</section>

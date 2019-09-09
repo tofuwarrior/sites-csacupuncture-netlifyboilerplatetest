@@ -1,24 +1,51 @@
----
-layout: compress
----
+{% comment %}
 
-<!DOCTYPE html>
-<html data-current="{{ page.section }}" lang="en">
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
 
-  {% include head.html %}
+	Name:
 
-  <body>
+		Default layout
 
-    {% include header.html %}
+	Description:
 
-    <main>
+		Basic HTML foundation for all pages.
 
-      {{ content }}
+	Example:
 
-    </main>
+		---
+		layout: default
+		---
 
-    {% include footer.html %}
+{% endcomment %}
 
-  </body>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
+		{% include layout/header.html class=page.header_class %}
+
+		{{ content }}
+
+		{% include layout/footer.html %}
+
+		<!-- Scripts -->
+			<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/jquery.scrollex.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/browser.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/breakpoints.min.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/util.js"></script>
+			<script src="{{ site.baseurl }}/assets/js/main.js"></script>
+
+	</body>
 </html>

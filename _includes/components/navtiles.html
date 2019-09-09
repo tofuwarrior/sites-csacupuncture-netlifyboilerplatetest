@@ -1,0 +1,54 @@
+{% comment %}
+
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+
+	Name:
+
+		Navtiles
+
+	Description:
+
+		Generates a grid of featured content.
+
+	Example:
+
+		---
+		my_features_arrray:
+		- icon: fa-pencil
+			title: Praesent sed donec
+			excerpt: Proin consequat luctus elit.
+		- icon: fa-paper-plane
+			title: Commodo mollis
+			excerpt: Pellentesque, ornare sapien quis.
+		---
+
+                
+		{% include components/features.html features=page.my_features_array %}
+
+{% endcomment %}
+
+<!-- Features -->
+ <h2 class="group-title">{{include.title}}</h2>
+	<div class="features">
+           
+		{% for navtile in site.navtiles %}
+                {% for testtag in navtile.customtags %}
+                    {% if testtag == include.customtag %}
+			<section class="post">
+                            <h3>{{ navtile.title }}</h3>
+				<span class="image"><img src="{{ site.baseurl }}{{ navtile.image }}" alt="" /></span>
+				<div class="content no-head">
+					<p>{{ navtile.content | remove: "<p>" | remove: "</p>" }}</p>
+					{% if navtile.url %}
+						<ul class="actions">
+							<li><a href="{{ navtile.url }}" class="button">Read more ...</a></li>
+						</ul>
+					{% endif %}
+				</div>
+			</section>
+                     {% endif %}    
+		{% endfor %}
+		{% endfor %}
+	</div>
