@@ -1,8 +1,8 @@
 ---
-title: test
-image: /images/uploads/senior-guy-2000x900.jpg
+title: Nurturing Children So They Can Thrive
+image: /images/uploads/little-gang-1433289.jpg
 url: 'http://www.bbc.co.uk'
 customtags:
   - slider-home-main
 ---
-test body text
+Acupuncture, gently and profoundly addresses many problems of childhood and is accepted by almost all children.
