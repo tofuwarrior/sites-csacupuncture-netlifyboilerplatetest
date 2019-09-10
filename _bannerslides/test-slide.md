@@ -1,8 +1,8 @@
 ---
-title: Is it time to feel like you again?
+title: Is it Time to feel like you again?
 image: /images/uploads/three-smiling-people-2000x900.jpg
-url: 'https://www.bbc.co.uk'
+url: '#'
 customtags:
   - slider-home-main
 ---
-This is the test slide text
+Every day, Traditional Acupuncture gives thousands of people freedom from issues some feared they might be stuck with
