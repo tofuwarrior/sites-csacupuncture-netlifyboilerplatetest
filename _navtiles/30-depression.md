@@ -2,7 +2,7 @@
 
 title: Relief of Depression
 image: /images/uploads/emotional-wellbeing-551x297.jpg
-url: /depression.html
+href: /depression.html
 customtags:
   - emotional
 ---

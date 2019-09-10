@@ -2,7 +2,7 @@
 
 title: Freedom from Anxiety
 image: /images/uploads/emotional-wellbeing-551x297.jpg
-url: /emotional-wellbeing.html
+href: /emotional-wellbeing.html
 customtags:
   - emotional
 ---

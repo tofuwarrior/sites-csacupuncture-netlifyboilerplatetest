@@ -53,8 +53,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Url", name: "url", widget: "string"}
-      - {label: "Tags", name: "customtags", widget: "relation", collection: "customtags", displayFields: ["customtag"], searchFields: ["customtag"],  valueField: "customtag",  multiple: true, required: false}
+      - {label: "Href", name: "href", widget: "string"}
+      - {label: "Custom Tags", name: "customtags", widget: "relation", collection: "customtags", displayFields: ["customtag"], searchFields: ["customtag"],  valueField: "customtag",  multiple: true, required: false}
   - name: "features"
     label: "Feature Tiles"
     folder: "_features"
@@ -65,7 +65,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Icon", name: "icon", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Url", name: "url", widget: "string"}
-      - {label: "Tags", name: "customtags", widget: "relation", collection: "customtags", displayFields: ["customtag"], searchFields: ["customtag"],  valueField: "customtag",  multiple: true, required: false}
+      - {label: "Custom Tags", name: "customtags", widget: "relation", collection: "customtags", displayFields: ["customtag"], searchFields: ["customtag"],  valueField: "customtag",  multiple: true, required: false}
   - name: "customtags"  
     label: "Custom Tags"
     folder: "_customtags"
@@ -82,7 +82,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Url", name: "url", widget: "string"}
-      - {label: "Tags", name: "customtags", widget: "relation", collection: "customtags", displayFields: ["customtag"], searchFields: ["customtag"],  valueField: "customtag",  multiple: true, required: false}
+      - {label: "Custom Tags", name: "customtags", widget: "relation", collection: "customtags", displayFields: ["customtag"], searchFields: ["customtag"],  valueField: "customtag",  multiple: true, required: false}
   - name: "testimonials"
     label: "Testimonials"
     folder: "customcollections/_testimonials"

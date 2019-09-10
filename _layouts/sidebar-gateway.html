@@ -1,0 +1,49 @@
+---
+layout: sidebar
+---
+
+{% comment %}
+
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+
+	Name:
+
+		Sidebar layout
+
+	Description:
+
+		A layout where content is displayed alongside the sidebar.
+		Allows defining the sidebar orientation on each page.
+
+	Example:
+
+		---
+		layout: sidebar
+		sidebar_align: right
+		---
+
+{% endcomment %}
+
+
+
+<!-- Content -->
+	<header class="major">
+		<div class="inner">   
+                    <h2> {{ page.title | escape}}</h2>
+                   {{content}}
+                </div>
+	</header>
+
+{% if page.tilestag %}
+<!-- gatewaytiles -->
+
+	<section id="gatewaytiles" class="wrapper content-pad">
+		<div class="inner">
+                    {% capture tilestagvar %}{{page.tilestag}}{% endcapture %}
+			{% include components/navtiles.html customtag=tilestagvar %}
+		</div>
+	</section>
+{% endif %}
+<!-- Main -->

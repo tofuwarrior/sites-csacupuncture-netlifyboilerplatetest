@@ -2,7 +2,7 @@
 
 title: My Training
 image: /images/uploads/hand-up-in-class551x297.jpg
-url: /my-training.html
+href: /my-training.html
 customtags:
   - aboutme
 ---
