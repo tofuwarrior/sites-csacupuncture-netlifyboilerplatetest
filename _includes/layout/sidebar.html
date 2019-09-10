@@ -21,8 +21,8 @@
 <!-- Sidebar -->
 	<div class="sidebar">
 
-		
-                        {% include layout/testimonials.html %}
+		{% capture tagvar %}{{page.testimonialtagvar}}{% endcapture %}
+                        {% include layout/testimonials.html customtag=tagvar%}
                         
 			
 		<hr />

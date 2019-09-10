@@ -2,7 +2,7 @@
 
 title: Treatment Methods
 image: /images/uploads/moxa-rolls-551x297.jpg
-url: /treatment-methods.html
+href: /treatment-methods.html
 customtags:
   - aboutme
 ---

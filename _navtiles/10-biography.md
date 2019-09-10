@@ -2,7 +2,7 @@
 
 title: Biography
 image: /images/uploads/open-book551x297.jpg
-url: /biography.html
+href: /biography.html
 customtags:
   - aboutme
 ---

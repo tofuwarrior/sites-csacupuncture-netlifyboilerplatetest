@@ -1,7 +1,7 @@
 ---
 title: What Is Acupuncture?
 image: /images/uploads/moxa-rolls-551x297.jpg
-url: /what-is-acupuncture.html
+href: /what-is-acupuncture.html
 customtags:
   - aboutacupuncture
 ---

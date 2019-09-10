@@ -10,23 +10,6 @@
 
 	Description:
 
-		Generates a grid of featured content.
-
-	Example:
-
-		---
-		my_features_arrray:
-		- icon: fa-pencil
-			title: Praesent sed donec
-			excerpt: Proin consequat luctus elit.
-		- icon: fa-paper-plane
-			title: Commodo mollis
-			excerpt: Pellentesque, ornare sapien quis.
-		---
-
-                
-		{% include components/features.html features=page.my_features_array %}
-
 {% endcomment %}
 
 <!-- Features -->
@@ -41,9 +24,9 @@
 				<span class="image"><img src="{{ site.baseurl }}{{ navtile.image }}?nf_resize=fit&w=551" alt="" /></span>
 				<div class="content no-head">
 					<p>{{ navtile.content | remove: "<p>" | remove: "</p>" }}</p>
-					{% if navtile.url %}
+					{% if navtile.href %}
 						<ul class="actions">
-							<li><a href="{{ navtile.url }}" class="button">Read more ...</a></li>
+							<li><a href="{{ navtile.href }}" class="button">Read more ...</a></li>
 						</ul>
 					{% endif %}
 				</div>

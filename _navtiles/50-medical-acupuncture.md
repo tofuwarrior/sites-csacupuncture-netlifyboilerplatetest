@@ -1,7 +1,7 @@
 ---
 title: Medical Acupuncture
 image: /images/uploads/taking-pulse551x297.jpg
-url: /medical-acupuncture.html
+href: /medical-acupuncture.html
 customtags:
   - aboutacupuncture
 ---
