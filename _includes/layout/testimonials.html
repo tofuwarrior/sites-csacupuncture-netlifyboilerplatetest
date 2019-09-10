@@ -16,7 +16,7 @@
                         {% if testimonial.showexcerpt %}
                                 <div class="inner   {% if testimonial.darkback %}dark{%endif%}">
                                      <i>{{ testimonial.excerpt | truncate: 200}} </i>
-                                     <p><strong>{{ testimonial.name | remove: "<p>" | remove: "</p>" }}, {{ testimonial.place | remove: "<p>" | remove: "</p>" }}</strong></p>
+                                     <blockquote>{{ testimonial.name | remove: "<p>" | remove: "</p>" }}, {{ testimonial.place | remove: "<p>" | remove: "</p>" }}</blockquote>
                                  </div>
                         {% endif %} 
             </article>
