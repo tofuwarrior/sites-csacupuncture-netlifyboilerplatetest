@@ -5,4 +5,4 @@ url: /fertility.html
 customtags:
   - slider-home-main
 ---
-I combine the ancient wisdom of Traditional Acupuncture with modern scientific research to provide individualised treatments that improve fertility.
+Combining the ancient knowledge of Traditional Acupuncture with modern scientific research to provide individualised treatments that improve fertility.

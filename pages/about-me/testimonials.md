@@ -1,9 +1,9 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Biography
-permalink: /about-me/biography.html
+title: Testimonials
+permalink: /about-me/testimonials.html
 ---
 
-<h2>Biography</h2>
-EDIT THIS TO ADD |BIO COPY
+<h2>Testimonials</h2>
+

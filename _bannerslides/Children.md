@@ -1,7 +1,7 @@
 ---
-title: Nurturing Children So They Can Thrive
+title: Nurturing Children from the Inside Out
 image: /images/uploads/little-gang-1433289.jpg
-url: 'http://www.bbc.co.uk'
+url: '/children-young-people/'
 customtags:
   - slider-home-main
 ---

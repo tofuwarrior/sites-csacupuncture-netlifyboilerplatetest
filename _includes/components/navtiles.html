@@ -19,7 +19,7 @@
 		{% for navtile in site.navtiles %}
                 {% for testtag in navtile.customtags %}
                     {% if testtag == include.customtag %}
-			<section class="post">
+			<section class="post {{include.customcss}}">
                             <h3>{{ navtile.title }}</h3>
 				<span class="image"><img src="{{ site.baseurl }}{{ navtile.image }}?nf_resize=fit&w=551" alt="" /></span>
 				<div class="content no-head">

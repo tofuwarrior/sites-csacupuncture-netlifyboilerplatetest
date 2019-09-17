@@ -5,4 +5,4 @@ href: /how-does-it-work.html
 customtags:
   - aboutacupuncture
 ---
-USE SCIENCE IMAGE***Acupuncture works by identifying imbalances in the functioning of the body and correcting them. In addition, science is also starting to understand a little of how Acupuncture works find out more here.
+Acupuncture works by identifying imbalances in the functioning of the body and correcting them. Science is just starting to understand how Acupuncture works, find out more here.
