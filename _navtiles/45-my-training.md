@@ -1,10 +1,9 @@
 ---
-
-title: My Training
+title: Training & Experience
 image: /images/uploads/hand-up-in-class551x297.jpg
-href: /my-training.html
+href: /about-me/training-and-experience.html
 customtags:
-  - aboutme
+  - tiles-about-me
 ---
-I have degrees in Psychology & Traditional Acupuncture. My Acupuncture study was a 4 year training at one of Europe's most respected schools of Acupuncture. 
-I have also completed specialist training in the treatment of children and infertility.
+
+I have been treating people with Acupuncture full time since graduating in 2012.  I have specialist training in the treatment of children, teenagers and issues relating to fertility.

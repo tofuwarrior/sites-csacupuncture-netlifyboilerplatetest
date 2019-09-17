@@ -32,18 +32,18 @@ layout: sidebar
 	<header class="major">
 		<div class="inner">   
                     <h2> {{ page.title | escape}}</h2>
-                   {{content}}
+                  {% include page-intro.html %}
                 </div>
 	</header>
 
 {% if page.tilestag %}
 <!-- gatewaytiles -->
-
 	<section id="gatewaytiles" class="wrapper content-pad">
 		<div class="inner">
                     {% capture tilestagvar %}{{page.tilestag}}{% endcapture %}
-			{% include components/navtiles.html customtag=tilestagvar %}
+			{% include components/navtiles.html customtag=tilestagvar customcss='gateway' %}
 		</div>
 	</section>
 {% endif %}
 <!-- Main -->
+ {{content}}

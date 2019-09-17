@@ -93,6 +93,12 @@
                         }
 		}
 	}
+        
+        	.features {
+		> section.gateway {
+			width: calc(33.333333333% - 4em);
+                }
+                }
 
 	@mixin color-features($p: null) {
 		.features {
