@@ -3,6 +3,6 @@ title: Acupuncture Safety
 image: /images/uploads/child-on-beach-with-spade551x297.jpg
 href: /acupuncture-safety.html
 customtags:
-  - aboutacupuncture
+  - tiles-aboutacupuncture
 ---
 British Medical Journal research identified Acupuncture as an extremely safe form of medicine, find out more here.

@@ -1,14 +1,12 @@
 ---
 layout: sidebar-gateway
 sidebar_align: right
-title: What Is Acupuncture
-tilestag: tiles-about-acupuncture
+title: About Acupuncture
+tilestag: tiles-aboutacupuncture
 permalink: /about-acupuncture/index.html
+intro_paragraph: |-
+  Traditional Acupuncture is a complete form of medicine with a history of continuous clinical practise and refinement reaching back over 2000 years.
+  It is a **complete understanding of the body and mind** and so this allows Acupuncture to offer care for both body and mind. 
+  Treatment not only **removes symptoms of illness or injury but helps patients feeling better emotionally**. 
+  All of this happens as result of the application of an elegant system of medicine that works to stimulate the body's own natural healing mechanisms.
 ---
-
-<p>Traditional Acupuncture is an amazing and complete form of medicine with a history of continuous clinical practise and refinement reaching back over 2000 years. It is an integrated understanding of the body and mind and so this allows Acupuncturists to treat all aspects of a person, for this reason, treatment not only removes symptoms of illness or injury but often, also leaves patients feeling better in themselves. All of this happens as result of the same treatment and the application of a gentle treatment system that works to stimulate the bodies own natural healing mechanisms.
-</p>
-
-<p>
-As a fully qualified Traditional Acupuncturist, I am a member of the British Acupuncture Council. 
-</p>
