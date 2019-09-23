@@ -1,7 +1,6 @@
 ---
-
 title: Freedom from Anxiety
-image: /images/uploads/emotional-wellbeing-551x297.jpg
+image: /images/uploads/middleaged-woman-chatting-sofa551x297.jpg
 href: /emotional-wellbeing.html
 customtags:
   - emotional
