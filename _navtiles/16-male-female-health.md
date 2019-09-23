@@ -1,6 +1,6 @@
 ---
 title: Male & Female Health Issues
-image: /images/uploads/baby-in-towel-551x297.jpg
+image: /images/uploads/male-female-gender-symbols-drawn-in-chalk.jpg
 href: /male-female-health.html
 customtags:
   - tiles-home
