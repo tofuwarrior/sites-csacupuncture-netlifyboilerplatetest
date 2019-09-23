@@ -1,6 +1,6 @@
 ---
 title: Children & Young People
-image: /images/uploads/baby-in-towel-551x297.jpg
+image: /images/uploads/children-smiling-551x297.jpg
 href: /children-young-people/index.html
 customtags:
   - tiles-home
