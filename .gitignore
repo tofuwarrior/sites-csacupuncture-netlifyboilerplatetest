@@ -3,3 +3,6 @@ _site
 .jekyll-metadata
 .users.yml
 nbproject
+
+# Local Netlify folder
+.netlify
