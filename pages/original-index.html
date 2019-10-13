@@ -1,8 +1,28 @@
 ---
 layout: default
-<!--header_class: alt-->
+header_class: alt
 
+banner:
+- image: /images/slide01.jpg
+  title: Magna tempus. Sed feugiat.
+  url: "#"
+- image: /images/slide02.jpg
+  title: Aliquam veroeros nullam.
+  url: "#"
+- image: /images/slide03.jpg
+  title: Consequat dolore adipiscing.
+  url: "#"
 
+features:
+- icon: solid fa-pencil-alt
+  title: Praesent sed donec
+  excerpt: Proin consequat luctus elit, nec blandit tellus ut volutpat magna. mi euismod elementum lectus et consequat etiam lorem etiam sed tempus. Feugiat veroeros lorem ipsum dolor.
+- icon: solid fa-paper-plane
+  title: Commodo mollis
+  excerpt: Pellentesque, ornare sapien quis, tristique ante. Proin nec facilisis odio. Integer elementum nunc nec leo interdum, non tristique eros laoreet. Integer vitae erat suscipit commodo.
+- icon: solid fa-cloud
+  title: Magnis curabitur
+  excerpt: Duis vulputate sit amet metus quis facilisis. Sed dapibus neque erat fringilla tincidunt. Nullam sapien et sapien, iaculis ac varius ultrices nec metus. Aenean ultricies magna.
 
 posts:
 - image: /images/pic01.jpg
@@ -31,7 +51,6 @@ posts:
   url: "#"
 ---
 
-
 {% comment %}
 
 	Slate by Pixelarity
@@ -48,48 +67,32 @@ posts:
 
 {% endcomment %}
 
-{% include components/banner.html customtag="slider-home-main" %}
+{% include components/banner.html slides=page.banner %}
 
 <!-- One -->
-	<section id="one" class="wrapper content-pad">
+	<section id="one" class="wrapper major-pad">
 		<div class="inner">
-                    <section class="spotlight-flip">
+			<section class="spotlight">
 				<div class="content">
-                                    <h2>Experienced, Professional Acupuncture, Delivered with Heart.</h2>
-                                    <p>If something is stopping you living as you would like to, now is probably the best time to take action to discover if Acupuncture can help.</p>
-                                        <p>Over many years of training and practise since 2008, I have seen Acupuncture provide relief and freedom to hundreds of people, young and older, with all kinds of difficulties, physical and emotional, so I really hope you will get in touch so we can find if it can help you.</p>
-                                        
- 
-    <ul class="actions">
-            <li><a href="/how-to-book.html" class="button">Book Here</a></li>
-            <li><a href="#contact" class="button">Contact Me</a></li>
-            <li><a href="#treatment-areas" class="button">Treatment Areas</a></li>
-    </ul>  
-                                        
+					<h2>Libero bibendum nullam vitae magna sed veroeros</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id interdum magna, ultricies aliquet curabitur sed metus pellentesque, ornare sapien quis.</p>
 				</div>
-				<span class="image"> {% include layout/testimonials.html  %}</span>
-                    </section>
+				<span class="image"><img src="{{ site.baseurl }}/images/pic07.jpg" alt="" /></span>
+			</section>
 		</div>
 	</section>
 
 <!-- Two -->
-	<section id="two" class="wrapper style2">
+	<section id="two" class="wrapper content-pad">
 		<div class="inner">
-			{% include components/features.html features=page.features width="" %}
+			{% include components/features.html features=page.features %}
 		</div>
 	</section>
 
-<!-- three -->
-	<section id="three" class="wrapper content-pad">
+<!-- Three -->
+	<section id="three" class="wrapper style2">
 		<div class="inner">
-			{% include components/navtiles.html customtag="tiles-home" title="Areas Of Treatment" navtiles_paragraph=page.navtiles_paragraph %}
-		</div>
-	</section>
-
-<!-- seven -->
-	<section id="seven" class="wrapper style2">
-		<div class="inner">
-			<h2>Latest Blogs</h2>
+			<h2>Etiam sed tellus</h2>
 			{% include components/posts.html posts=page.posts %}
 		</div>
 	</section>

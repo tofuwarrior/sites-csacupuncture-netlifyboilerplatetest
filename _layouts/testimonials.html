@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+{% comment %}
+
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+
+	Name:
+
+		Testimonials layout
+
+	Description:
+
+		A layout where content is displayed alongside the sidebar.
+		Allows defining the sidebar orientation on each page.
+
+	Example:
+
+		---
+		layout: testimonials
+		---
+
+{% endcomment %}
+
+<section id="main" class="wrapper">
+		<div class="inner">
+
+<!-- Content -->
+	<header class="major">
+		<div class="inner">   
+                    <h2> Testimonials</h2>
+                  {% include page-intro.html %}
+                </div>
+	</header>
+
+<!-- gatewaytiles -->
+	<section id="testimonials-gallery" class="">
+            <div class="box alt">
+<div class="row gtr-uniform gtr-50">
+
+                {% for testimonial in site.testimonials %}
+            <div class="col-4" >
+                <span class="image fit"><img src="{{ testimonial.image }}" title ="{{ testimonial.excerpt | strip_html}}" ></span>
+             </div>
+        {% endfor %}
+</div>
+            </div>
+	</section>
+<!-- Main -->
+ {{content}}
+ 
+                </div>
+</section>

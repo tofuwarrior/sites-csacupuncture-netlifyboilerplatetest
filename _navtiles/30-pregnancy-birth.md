@@ -5,5 +5,6 @@ href: /fertility/pregnancy-birth.html
 customtags:
   - women
   - tiles-fertility-pregnancy
+  - tiles-what-can-acupuncture-treat
 ---
 Sadly, Pregnancy often can be challenging. Acupuncture is one of the safest forms of medicine for you and your baby and provides relief to women every day.

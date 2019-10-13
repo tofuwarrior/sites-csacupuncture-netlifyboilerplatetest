@@ -204,30 +204,25 @@
 	#testimonials {
 		@include color-typography(accent1);
 		min-height: 5em;
-		/*height: 50vh;*/
+		height: 20em;
                 
                 > article {
+                    background-attachment: fixed !important;
 				.inner {
-                                        position: absolute;
-                                        left: 10%;
-                                        top: 30%;
+                                        position: relative;
+/*                                        left: 10%;
+                                        top: 30%;*/
                                         width: 80%;
                                         padding: 0.5em;
                                         /*height: 60%;*/
                                         background-position: left;
 				}
-
-			
 			}
 
 
 		@include breakpoint('<=medium') {
 			min-height: 20em;
-			height: 35vh;
-
-			> article {
-				background-attachment: scroll;
-			}
+			height: 20em;
 		}
 
 		@include breakpoint('<=small') {
@@ -239,6 +234,11 @@
 				}
 
 			
+			}
+		}
+                body.is-mobile & {
+			> article {
+				background-attachment: fixed;
 			}
 		}
 
@@ -265,16 +265,16 @@
 			min-height: 15em;
                         height: 15vh;
 
-/*			> article {
+			> article {
 				.inner {
 					width: 90%;
 				}
 
-				h2 {
+/*				h2 {
 					font-size: 1.75em;
 					line-height: 1.25em;
-				}
-			}*/
+				}*/
+			}
 		}
 
 	}

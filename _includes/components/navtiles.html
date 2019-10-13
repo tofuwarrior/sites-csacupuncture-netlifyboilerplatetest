@@ -16,6 +16,9 @@
 {% if include.title %}
  <h2 class="group-title">{{include.title}}</h2>
  {% endif %}
+{% if include.navtiles_paragraph %}
+ <p>{{include.navtiles_paragraph}}<p>
+ {% endif %}
 	<div class="features">
            
 		{% for navtile in site.navtiles %}
