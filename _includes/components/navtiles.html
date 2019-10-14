@@ -17,7 +17,9 @@
  <h2 class="group-title">{{include.title}}</h2>
  {% endif %}
 {% if include.navtiles_paragraph %}
- <p>{{include.navtiles_paragraph}}<p>
+<div class="post">
+ <div class="content no-head">{{include.navtiles_paragraph | markdownify}}</div>
+</div>
  {% endif %}
 	<div class="features">
            

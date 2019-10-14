@@ -1,7 +1,7 @@
 ---
-title: Male & Female Health Issues
+title: Gender Health Issues
 image: /images/uploads/male-female-gender-symbols-drawn-in-chalk.jpg
-href: /male-female-health.html
+href: /gender-health/index.html
 customtags:
   - tiles-home
   - tiles-what-can-acupuncture-treat

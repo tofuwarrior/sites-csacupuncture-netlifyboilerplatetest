@@ -280,24 +280,24 @@
                 
                 //additional 
                 //to add font awesome right arrow to submenus
-                .dropotron 
-                {
-                    a.submenu:after {
-                      content: '\f105';
-                        font-family: FontAwesome;
-                        font-weight: normal;
-                        font-style: normal;
-                        margin:0px 0px 0px 10px;
-                        text-decoration:none;
-                }
+                a.submenu:after {
+                  content: '\f105';
+                    font-family: FontAwesome;
+                    font-weight: normal;
+                    font-style: normal;
+                    margin:0px 0px 0px 10px;
+                    text-decoration:none;
                 }
                 
+
+	}
+        
+         // additional 
+         // to make anchored links jump content to display below the header not under it.
                 :target::before {
                     content: "";
                     display: block;
-                    height: 4em; /* fixed header height*/
-                    margin: -4em 0 0; /* negative fixed header height */
+                    height: 8em; /* fixed header height*/
+                    margin: -8em 0 0; /* negative fixed header height */
                   }
                 //end
-
-	}

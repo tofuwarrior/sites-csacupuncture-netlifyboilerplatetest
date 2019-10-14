@@ -22,23 +22,19 @@ permalink: /common-questions.html
 
 
 ### After Treatment
-[Will treatment restrict what I can do afterwards?(#will-treatment-restrict-what-i-can-do-afterwards)
+1. [Will treatment restrict what I can do afterwards?](#will-treatment-restrict-what-i-can-do-afterwards)
 
 
 ### Safety & Medication
-[I’m on medication, is it OK to have Acupuncture?](#medication-is-it-ok-to-have-acupuncture)
-[Will I have to change my medication to have Acupuncture?](#will-i-have-to-change-my-medication)
-[I’m pregnant, is it safe to have acupuncture?](#im-pregnant-is-it-safe-to-have-acupuncture)
-[Are there any conditions for which Acupuncture treatment is not advised or is dangerous?](#are-there-any-conditions-for-which-Acupuncture-treatment-is-not-advised-or-is-dangerous)
-
-
-
+1. [I’m on medication, is it OK to have Acupuncture?](#medication-is-it-ok-to-have-acupuncture)
+2. [Will I have to change my medication to have Acupuncture?](#will-i-have-to-change-my-medication)
+3. [I’m pregnant, is it safe to have acupuncture?](#im-pregnant-is-it-safe-to-have-acupuncture)
+4. [Are there any conditions for which Acupuncture treatment is not advised or is dangerous?](#are-there-any-conditions-for-which-Acupuncture-treatment-is-not-advised-or-is-dangerous)
 
 
 #### How do I book?
 {:#how-do-i-book}
-[Visit the’ how to book’ page here](/how-to-book.html)
-
+1. [Visit the’ how to book’ page here](/how-to-book.html)
 
 
 #### Do I need to do anything before coming?

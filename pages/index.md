@@ -11,7 +11,8 @@ intro_paragraph: >
   pages and posts, and a continuous deployment workflow.
 navtiles_paragraph: >
   I run a full general practise clinic for all ages.
-  In addition to my initial degree training, since graduating in 2012 I have completed extensive additional training in the **treatment of children, young people and fertility** which are areas of work that require specialist training.
+
+  Since completing my Acupuncture degree in 2012, I have completed extensive additional training in the **treatment of children & young people** and the **treatment of fertility** which are both areas that require specialist training.
 
 features:
 - icon: fa-pencil

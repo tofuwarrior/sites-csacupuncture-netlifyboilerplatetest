@@ -22,6 +22,7 @@ baseurl: "" # the subpath of your site if applicable, e.g. /blog
 url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Plugins
+#plugins: ["jekyll-paginate, jekyll-google-tag-manager, jekyll-feed"]
 plugins: ["jekyll-paginate"]
 
 # Permalink format (/blog/ is ignored for pages)
@@ -36,6 +37,11 @@ netlifycms: true
 
 # set to 'true' to enable Google Analytics tracking code in production builds
 analytics: false
+
+google:
+  tag_manager:
+    container_id: GTM-T5NTK5
+
 
 
 # Compress HTML (in liquid via layouts/compress.html)

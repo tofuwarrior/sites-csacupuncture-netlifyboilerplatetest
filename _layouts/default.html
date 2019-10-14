@@ -23,6 +23,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
+            {% gtm head %}
 		<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -30,8 +31,10 @@
 		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/noscript.css" /></noscript>
 	</head>
+        
+        
 	<body class="is-preload">
-
+{% gtm body %}
 		{% include layout/header.html class=page.header_class %}
 
 		{{ content }}
