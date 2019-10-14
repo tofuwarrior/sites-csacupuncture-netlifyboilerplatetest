@@ -6,4 +6,4 @@ customtags:
   - women
   - tiles-home
 ---
-Acupuncture is well known as assisting in improving fertility both in women and men, it can also support you if you are thinking about assisted reproduction treatment like IVF or IUI. I provide empathy and support in what can be an emotionally intense time.  Individualised treatment identifies issues which may be affecting your fertility and harmonises these so you are at your best.
+Acupuncture is well known for improving fertility both male & female both naturally and for assisted reproduction treatment like IVF or IUI. Individualised treatment and lifestyle advice works with the issues affecting your fertility and harmonises them. This, along with emotional support ensures you are at your best.

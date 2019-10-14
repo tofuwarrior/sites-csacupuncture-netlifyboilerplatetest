@@ -6,4 +6,4 @@ customtags:
   - tiles-home
   - tiles-what-can-acupuncture-treat
 ---
-Acupuncture has a holistic understanding of ageing and every day provides treatment that keeps people active and mentally fresh to thousands of people, helping them continue to enjoy the best of what life has to offer.
+If you are experiencing difficulties due to age, Acupuncture's holistic understanding of ageing provides treatment that can keep you active and mentally fresh so you can continue to enjoy the best of what life has to offer.
