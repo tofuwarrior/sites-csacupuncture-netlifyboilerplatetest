@@ -21,24 +21,24 @@
  <div class="content no-head">{{include.navtiles_paragraph | markdownify}}</div>
 </div>
  {% endif %}
-	<div class="features">
-           
-		{% for navtile in site.navtiles %}
-                {% for testtag in navtile.customtags %}
-                    {% if testtag == include.customtag %}
-			<section class="post {{include.customcss}}">
-                            <h3>{{ navtile.title }}</h3>
-				<span class="image"><img src="{{ site.baseurl }}{{ navtile.image }}?nf_resize=fit&w=551" alt="" /></span>
-				<div class="content no-head">
-					<p>{{ navtile.content | remove: "<p>" | remove: "</p>" }}</p>
-					{% if navtile.href %}
-						<ul class="actions">
-							<li><a href="{{ navtile.href }}" class="button">Read more ...</a></li>
-						</ul>
-					{% endif %}
-				</div>
-			</section>
-                     {% endif %}    
-		{% endfor %}
-		{% endfor %}
-	</div>
+<div class="posts">
+
+{% for navtile in site.navtiles %}
+{% for testtag in navtile.customtags %}
+    {% if testtag == include.customtag %}
+        <section class="post {{include.customcss}}">
+            <h3>{{ navtile.title }}</h3>
+                <span class="image"><img src="{{ site.baseurl }}{{ navtile.image }}?nf_resize=fit&w=551" alt="" /></span>
+                <div class="content no-head">
+                        <p>{{ navtile.content | remove: "<p>" | remove: "</p>" }}</p>
+                        {% if navtile.href %}
+                                <ul class="actions">
+                                        <li><a href="{{ navtile.href }}" class="button">Read more ...</a></li>
+                                </ul>
+                        {% endif %}
+                </div>
+        </section>
+     {% endif %}    
+{% endfor %}
+{% endfor %}
+</div>
