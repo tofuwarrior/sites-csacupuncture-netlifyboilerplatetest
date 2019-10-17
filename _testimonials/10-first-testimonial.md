@@ -1,8 +1,8 @@
 ---
-excerpt: "testing the testimonial system, testing the testimonial systemtesting the testimonial system testing the testimonial systemtesting the testimonial system"
-name: Ana,
+excerpt: "IVF Pregnancy"
+name: 
 place: Cardiff
-image: /images/uploads/fertility-551x297.jpg
+image: /images/uploads/messages/ivf-pregnancy-trimmed.fw.png
 url: /what-patients-say.html
 showexcerpt: true
 darkback: false
