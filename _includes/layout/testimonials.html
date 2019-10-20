@@ -11,7 +11,7 @@
 <!--<section class="spotlight" id="testimonials">-->
 <section id="testimonials" class="slider">
         {% for testimonial in site.testimonials %}
-            <article data-position="{{ slide.position }}">
+            <article>
                     <img src="{{ testimonial.image }}" title ="{{ testimonial.excerpt | strip_html}}" >
                         {% if testimonial.showexcerpt %}
                                 <div class="inner   {% if testimonial.darkback %}dark{%endif%}">

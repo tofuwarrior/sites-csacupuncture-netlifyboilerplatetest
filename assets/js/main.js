@@ -30,6 +30,21 @@
 				// Parallax intensity (between 0 and 1; higher = more intense, lower = less intense; 0 = off)
 					parallax: 0.25
 
+			},testimonial: {
+
+				// Indicators (= the clickable dots at the bottom).
+					indicators: true,
+
+				// Transition speed (in ms)
+				// For timing purposes only. It *must* match the transition speed of "#banner > article".
+					speed: 1500,
+
+				// Transition delay (in ms)
+					delay: 2000,
+
+				// Parallax intensity (between 0 and 1; higher = more intense, lower = less intense; 0 = off)
+					parallax: 0
+
 			}
 		};
 
@@ -296,10 +311,11 @@
 
 		}
 
-
 	// Banner.
 		$banner._slider(settings.banner);
-		// testimonials slider added for CS ACUPUNCTURE
+	
+    
+    // testimonials slider added for CS ACUPUNCTURE
             if ($testimonials.length > 0
 		&&	$header.hasClass('alt')) {
 
@@ -316,7 +332,7 @@
 
 
 	// Banner.
-		$testimonials._slider(settings.banner);
+		$testimonials._slider(settings.testimonial);
 
 	// Off-Canvas Navigation.
 
