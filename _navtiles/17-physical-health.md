@@ -1,7 +1,7 @@
 ---
 title: Physical Health & Pain
 image: /images/uploads/shutterstock_105193541.jpg
-href: /physical-health.html
+href: /physical-health/index.html
 customtags:
   - tiles-home
   - tiles-what-can-acupuncture-treat

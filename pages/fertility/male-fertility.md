@@ -7,7 +7,7 @@ permalink: /fertility/male-fertility.html
 
 ## Male Fertility
 
-The experiences of friends and family as well as supporting many patients coping with fertility issues mean I understand the level of distress it can involve when a successful pregnancy doesn't happen. This is why successful treatment to improve fertility is so life changing and why I am so passionate about it. If you are feeling uncomfortable about potentially having issues with fertility, its a normal way to feel but please remember that issues with fertility are incredibly common and are often not to do with you personally; sperm counts in western men have halved in the last 40 years decreasing by 1.4% per year. Although the causes are not clearly understood, issues such as increased environmental toxins, modern diets, stress or pressures from modern lifestyles are all seen as being significant factors as well as any issues specific to an individual.
+ If you are feeling uncomfortable about potentially having issues with fertility, its a common way to feel, many men and women feel the same kind of thing but please remember that issues with fertility are incredibly common and are often not to do with you personally; sperm counts in western men have halved in the last 40 years decreasing by 1.4% per year. Although the causes are not clearly understood, issues such as increased environmental toxins, modern diets, stress or pressures from modern lifestyles are all seen as being significant factors as well as any issues specific to an individual.
 
 ### Additional Training
 The treatment of fertility is one of my 2 specialisms, the other being the treatment of children.

@@ -40,7 +40,7 @@
 					speed: 1500,
 
 				// Transition delay (in ms)
-					delay: 2000,
+					delay: 8000,
 
 				// Parallax intensity (between 0 and 1; higher = more intense, lower = less intense; 0 = off)
 					parallax: 0
@@ -358,5 +358,20 @@
 					resetForms: true,
 					side: 'right'
 				});
+                                
+                                
+                                //set contact block to be non visible only if javascript is enabled.
+//                                 $("#contact").css('display','none');
+                                 
+            console.log("setup");                    
+        // Toggle contact block at bottom
+        $(".contact-trigger").click(function () {
+            console.log("trigger");
+            $content = $("#contact");
+            //getting the next element
+//            $content = $header.next();
+            //open up the content needed - toggle the slide- if visible, slide up, if not slidedown.
+            $content.slideToggle(500);
+        });
 
 })(jQuery);

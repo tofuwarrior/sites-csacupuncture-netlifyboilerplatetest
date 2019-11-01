@@ -4,8 +4,7 @@ sidebar_align: right
 title: Acupuncture for Female Fertility
 permalink: /fertility/female.html
 ---
-
- Bearing witness to the experiences of friends and family before I was qualified as well as supporting many patients coping with fertility issues has allowed me to understand the level of feeling it can involve when a successful pregnancy hasn't happened. This is why successful treatment to improve fertility is so life changing and why I am deeply invested in providing this kind of support. 
+ Many women and men experience fertility issues and although the causes are not fully understood, issues such as waiting longer to have a child, increased environmental toxins, modern diets, stress or pressures from modern lifestyles are all seen as being significant factors as well as any issues specific to an individual. If you are finding it distressing, please remember you are not alone and that Acupuncture may be able to help you, just as it has helped many thousands of women before you. You can get in touch to talk about your situation without any cost or obligation.
 
 ### My Fertility Experience & Training
 As well as my years of accumulated experience and additional study since I graduated in 2012, I have also completed extensive additional fertility training delivered by Jane Lyttleton who is an internationally respected author and edeucator in the field of Acupuncture and fertility.  I have been helping both male and female patients with fertility issues since 2012.

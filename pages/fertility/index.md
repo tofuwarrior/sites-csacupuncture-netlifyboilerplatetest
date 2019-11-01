@@ -5,8 +5,7 @@ title: Fertility
 tilestag: tiles-fertility-pregnancy
 permalink: /fertility/index.html
 intro_paragraph: |-
-  The experiences of friends and family as well as supporting many patients coping with fertility issues mean I understand the difficulties it can involve when a successful pregnancy doesn't happen. This is why successful treatment to improve fertility is so life changing and why I am so passionate about it.
-
+  The experiences of friends and family as well as supporting many patients coping with fertility issues mean I understand how distressing it can be when a successful pregnancy hasn't happened or when a pregnancy is lost. The deep emotions of these experiences is why successful treatment to improve fertility is so life changing and why I am so passionate about helping individuals or couples who are trying to have a baby. 
 
 ---
 ### What Treatment Has to Offer

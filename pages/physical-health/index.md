@@ -2,61 +2,30 @@
 layout: sidebar
 sidebar_align: right
 title: Female Health Issues
-permalink: /female-health/index.html
+permalink: /physical-health/index.html
 ---
 
-## Female Health
-Acupuncture has much to offer in the area of women's health, in fact in many areas it can resolve problems that many women believe they have to just put up with, period pain and PMT being a good example.
+## Pain
+Acupuncture is excellent at reducing or removing the sensation of pain.
 
-### Period Pain and Menstrual Cycle Irregularities
- If you or your daughter are having difficulties with menstrual issues, Acupuncture is a treatment option that has an excellent chance of helping. It has a regulating function on the body and particularly the menstrual cycle and the emotions. Unlike medication it doesn’t just treat the symptoms as they occur, but has a lasting effect addressing the underlying cause of your menstrual difficulties.
+Although, as a complete system of medicine, it treats a very wide range of conditions it is best known in the west for treating pain. In fact NICE (the UK body who determine best practise) recently stated that research shows Acupuncture to be the only form of treatment, conventional or complementary that effectively treats tension headaches or migraine.  In addition they identified that over prescription of medication is one of the most common causes of these kinds of headaches.
+The report can be viewed here: http://publications.nice.org.uk/headaches-cg150/guidance
 
-These are some of the signs that your menstrual cycle is disregulated and might benefit from some treatment.
-* period pain or pain on ovulation, 
-* strong emotional changes related to menstrual cycle
-* heavy or excessively light menstrual bleeding, 
-* short or very long periods,
-* irregular menstrual cycle,
-* short (less than 24 days) or long (over 32 days) menstrual cycle,
-* spotting between periods 
-* digestive disturbance connected to changes in your menstrual cycle.
-* headaches or other symptoms that vary according to your periods
+Acupuncture does not just treat headaches, it is well known for helping alleviate the sensation of lower back pain and other conditions.
 
+If you are currently troubled by pain then it is very likely that I can help you, as well as Acupuncture I am also trained in Tui Na (CHiense therapeutic massage), Guasha and Cupping which are all Chinese medical skills intended to help with pain as well as other issues.
 
-### Polycystic Overian Syndrome (PCOS)
+People sometimes come to Acupuncture as a last resort after they have failed to find help elsewhere and even in these situations where a condition has got worse because of a lack of effective treatment,  there is often a lot that can be done to help.
 
-Acupuncture is a safe treatment for PCOS, and scientific studies have found it can help:
-* Increase blood flow to the ovaries
-* Reduce the number of ovarian cysts and ovarian volume
-* Reduce reduce stress and the levels of stress hormones
-* Improve pregnancy rates in patients with PCOS undergoing IVF
-* Improve metabolic function of patients with obesity-type PCOS
+As well as treating your condition directly, I can often  help your ability to deal with your condition as well because Acupuncture can treat more than one aspect of your health at once.
+##Physical Health
+As an example, patient’s who are experiencing side effects from chemotherapy often find Acupuncture helpful. There is no evidence that Acupuncture helps cancer itself but it does affect many of the common side effects of chemotherapy like Nausea and headaches and so can produce very substantial changes in quality of life.
 
+Of course, just like other systems of medicine, Acupuncture cannot help everything, so one of the first things I do when we speak is find out about what is troubling you so that I can make an assessment of how likely it is I can help you, this helps you make a realistic decision about whether you want treatment. If I can’t help you then I can suggest other reliable, professional practitioners in the local area who may be able to.
 
-### Fertility
-#### Without Assisted Reproduction (IVF, IUI, ICSI etc)
-Acupuncture has been shown to increase the rates of pregnancy in couples trying for a baby.  Sometimes it can be helpful for both partners in a couple to receive Acupuncture as Acupuncture can positively affect both male and female fertility. If you have been struggling to get pregnant, it can sometimes be because something is not quite right in your system and for some a simple course of treatment is enough to tip the balance in favour. I have had plenty of patients over the years where they have got pregnant shortly after starting a course of Acupuncture, more commonly it takes a little more time and for some, we see positive changes in fertility indicators but they opt to combine the positive effects of Acupuncture with Assisted Reproduction Therapy. 
+Life is of course, for living and by helping your body help itself Acupuncture helps you do that.
 
-These are all personal decisions which I can support
-
-#### Assisted Reproduction (IVF, IUI, ICSI etc) Support
-
-There are a number of options for Acupuncture when undergoing Assisted Reproductive Therapy, which you choose depends to some degree on the level to which you want assistance.
- Acupuncture is best received for a few months before starting the ART, this helps  and then during treatment.
-
-Regular acupuncture is recommended  until you are 12 weeks pregnant.  As well as increasing the chances of pregnancy, treatment is also designed to support you emotionally at this demanding time.
-
-[Find out more.](/fertility/assisted-reproduction.html)
-
-
-### Support In Pregnancy
-
-Pregnancy often does not involve, ‘glowing’. Difficulties are common as your body undergoes such a significant change. Acupuncture helps to address many common issues in pregnancy. 
-
-[Find out more.](/fertility/pregnancy-birth.html)
-
-
-### Menopause and Peri-menopause
-Since I have been in practise I have witnessed the wide variety of ways in which menopause and peri-menopause seriously affect the quality of life of some of my female patients. As well as the more commonly understood symptoms like hot flushes, changes in libido and mood disturbances, this fundamental change in the functioning of your body can cause a whole array of other problems that can feel unpredictable and out of control.  
-
-Acupuncture is at it's core regulating, and so has much to offer when women experience this change. During this period of life, just like during puberty, the body is learning to adapt to fundamental changes in hormonal patterns, this takes time.  Acupuncture helps keep you more in balance while this adjustment happens keeping you feeling more balanced and helping to reduce the intensity of the symptoms you are experiencing.
+These are some of the common things people access acupuncture for. These are only common conditions so if the thing you are having trouble with is not listed {: .contact-trigger}[please get in touch](#contact-trigger) and we can explore whether Acupuncture might be able to help you.
+* Headaches and migraines, 
+* Digestive disturbances like IBS, crohns and ulcerative colitis
+* Pain from physical injuries or back problems

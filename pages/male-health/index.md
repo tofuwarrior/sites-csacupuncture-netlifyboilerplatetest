@@ -4,23 +4,31 @@ sidebar_align: right
 title: Male Health
 permalink: /male-health/index.html
 ---
+##How Acupuncture can help Men’s Health?
+
+Acupuncture is a complex diagnostic system that gives a unique view of different ways in which the functioning of our bodies goes wrong, the kinds of symptoms these irregularities produce and effective solutions to resolve these irregularities. Acupuncture treatment addresses many male health issues but below you can find a list of commonly helped problems.
+
+### Prostatitis
+
+If you are experiencing symptoms of frequent urination, hesitancy, dribbling, pain with urination or getting up to urinate during the night, acupuncture and Eastern Medicine provides a systematic approach to the overall body constitution and the underlying causes of your symptoms. Prostatitis is the inflammation of the prostate that can cause urinary symptoms and pelvic pain.  The most common type is chronic non-bacterial prostatitis. Symptoms may include a frequent and urgent need to urinate, pain or a burning sensation when urinating or pain in the pelvic area, lower back and genital area.
+
+### Benign prostatic hyperplasia (BPH)
+
+As men age, the prostate naturally increases in size. If the prostate compresses the urethra, it can cause a range of urinary symptoms.  This is known as BPH and affects about 50% of men over 60.  Symptoms include hesitancy or difficulty starting to urinate, slowness or dribbling of the urinary stream, frequent urination and, very commonly, the need to get up at night to urinate. Acupuncture can help with many issues relating to the urinary system.
 
 
-[INSERT MALE HEALTH COPY HERE]
-People who have a course of Acupuncture treatment  often comment that aswell as their specific complaint being better, they feel much better in themselves.
+### Prostate cancer
 
-### Why Is this?
-The quick answer is that good Acupuncture treats all of you and when you nourish yourself in this way you feel better at both deep and surface levels. The way we experience our emotional and mental life is just is as much related to our physical body as whether we have a bad back. Just see how your feelings change when you are ill or tired or under stress.
+Prostate cancer affects about one in six men. It can respond very well to treatment when caught early, so it is recommended that all men over the age of 50 get regular prostate cancer screenings.  Urinary problems, pain in the lower back or hips and blood in the urine or semen are common symptoms of prostate cancer.  If you or a loved one is diagnosed with prostate cancer, Acupuncture can be helpful in relieving the side effects of treatment and boosting overall health.
 
-Acupuncture treatment brings you back into a better balance, it encourages the body’s natural tendency to operate at optimum health and emotional wellbeing is a product of this. Good Acupuncture treatment balances you and one of the results of this is that patients start reporting feeling 'more myself’, ‘more resilient’, ‘more content’ etc. This is the real meaning of well-being and what is amazing, and surprising about Traditional Acupuncture is that it can help you feel this way.
+### Erectile Dysfunction (ED)
 
-It is this aspect of Acupuncture more than any other that inspired me to commit to a demanding 4 year training.  Experiencing what it felt like to feel so much better in myself inspired me to want to be able to share that with others.
+ED is the inability to maintain an erection suitable for sexual intercourse at least a quarter of the. This is a very common situation that happens to most men at sometime , but ongoing problems could indicate a more serious issue.  ED can be caused by health conditions such as atherosclerosis, heart disease, clogged blood vessels  or diabetes.  Other causes include medications, stress, depression and anxiety.   Acupuncture can be helpful in boosting and supporting sexual stamina and in addressing issues like stress and emotional states that get in the way of sexual activity.
 
+### Fertility ISsues
 
-### Who Can Benefit?
-Most people. Since I qualified in 2012, I can only think of a handful of people who have come to me with emotional issues who haven't felt much much better after a relatively short course of treatment.
+Male fertility issues usually involve poor movement, poor quality or low concentration of sperm. Research has shown that Acupuncture can improve both production and quality of sperm. It can also increase the chances of successful pregnancy when used in conjunction with Assisted Reproduction Tehcniques (ART) like IVF. Acupuncture can also offer help for both partners with dealing well with the emotional aspects of struggling to conceive.
 
-Everyone has different kinds of demands that life brings to them, Acupuncture for many people is an important tool that helps them live life more fully rather than surviving it.
+### Male Menopause
 
-### What Do I Need to Do?
-If you have something that is getting in the way of you feeling like the real you then you can either [book an appointment](/how-to-book.html) or [get in touch](#contact-trigger) and we can chat about what is giving you difficulty and whether Acupuncture might be able to help. The majority of people find it leaves them feeling much better, whether they ‘believe’ in Acupuncture or not.
+As we age, production of the testosterone, the male hormone, can decline. Symptoms like weakness, low or variable mood, fatigue or low energy levels and sexual issues can happen.  Acupuncture can support men as they age and eliminate symptoms and signs related to MM.

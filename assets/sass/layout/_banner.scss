@@ -74,7 +74,7 @@
 		> article {
 			@include vendor('transition', 'opacity 1.5s ease, visibility 1.5s');
 			background-attachment: fixed;
-			background-position: center;
+			background-position: center top !important;
 			background-repeat: no-repeat;
 			background-size: cover;
 			height: 100%;
@@ -103,7 +103,8 @@
 				top: 0;
 				left: 0;
 				background: #000;
-				opacity: 0.35;
+				/*opacity: 0.35;*/
+				opacity: 0;
 			}
 
 			.inner {
@@ -205,10 +206,11 @@
 		@include color-typography(accent1);
 		min-height: 5em;
 		height: 20em;
+                background: #efefef;
                 
                 > article {
                         @include vendor('transition', 'opacity 1.5s ease, visibility 1.5s');
-			background-attachment: fixed;
+			background-attachment: scroll !important;
 			/*background-position: center;*/
 			background-size: contain;
                         background-repeat: no-repeat;

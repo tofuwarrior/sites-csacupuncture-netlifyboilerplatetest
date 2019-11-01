@@ -2,7 +2,7 @@
 
 title: Male Fertility
 image: /images/uploads/pregnancy-birth-551x297.jpg
-href: /fertility/male.html
+href: /fertility/male-fertility.html
 customtags:
   - men
   - tiles-fertility-pregnancy
