@@ -43,7 +43,13 @@ layout: default
 
                 {% for testimonial in site.testimonials %}
             <div class="col-4" >
-                <span class="image fit"><img src="{{ testimonial.image }}" title ="{{ testimonial.excerpt | strip_html}}" ></span>
+                 {% if testimonial.showexcerpt %}
+                                <h5>{{ testimonial.excerpt | truncate: 30}}</h5>
+                               
+                        {% endif %} 
+                <span class="image fit"><img src="{{ testimonial.image }}" title ="{{ testimonial.excerpt | strip_html}}- {{ testimonial.age | remove: "<p>" | remove: "</p>" }} year old, {{ testimonial.gender | remove: "<p>" | remove: "</p>" }}" ></span>
+                 <b>{{ testimonial.age | remove: "<p>" | remove: "</p>" }} year old, {{ testimonial.gender | remove: "<p>" | remove: "</p>" }} </b>
+                
              </div>
         {% endfor %}
 </div>

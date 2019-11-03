@@ -1,9 +1,5 @@
 {% comment %}
-
-
-
 		{% include layout/testimonials.html %}
-
 {% endcomment %}
 
 <h2>What Patients Say</h2>
@@ -13,13 +9,14 @@
         {% for testimonial in site.testimonials %}
             <article data-position="top">
                     <img src="{{ testimonial.image }}" title ="{{ testimonial.excerpt | strip_html}}" >
-                        {% if testimonial.showexcerpt %}
-                                <div class="inner   {% if testimonial.darkback %}dark{%endif%}">
+                       
+            </article>
+         {% if testimonial.showexcerpt %}
+                                <div class="wrapper   {% if testimonial.darkback %}dark{%endif%}">
+                                     <blockquote>{{ testimonial.age | remove: "<p>" | remove: "</p>" }} year old, {{ testimonial.gender | remove: "<p>" | remove: "</p>" }}</blockquote>
                                      <i>{{ testimonial.excerpt | truncate: 200}} </i>
-                                     <blockquote>{{ testimonial.name | remove: "<p>" | remove: "</p>" }}, {{ testimonial.place | remove: "<p>" | remove: "</p>" }}</blockquote>
                                  </div>
                         {% endif %} 
-            </article>
         {% endfor %}
 </section>
 <br><br>

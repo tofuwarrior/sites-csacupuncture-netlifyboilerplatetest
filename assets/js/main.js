@@ -360,18 +360,21 @@
 				});
                                 
                                 
-                                //set contact block to be non visible only if javascript is enabled.
-//                                 $("#contact").css('display','none');
-                                 
-            console.log("setup");                    
+            //set contact block to be non visible only if javascript is enabled.
+            $content = $("#contact");
+            console.log("setup"); 
+             $content.slideToggle(500);
         // Toggle contact block at bottom
         $(".contact-trigger").click(function () {
             console.log("trigger");
-            $content = $("#contact");
-            //getting the next element
-//            $content = $header.next();
+            
+            //close it for setup if jquery is working
+            
             //open up the content needed - toggle the slide- if visible, slide up, if not slidedown.
-            $content.slideToggle(500);
+            if (!$content.is(":visible")) {
+                $content.slideToggle(500);
+                $('#contact-trigger-button').toggle();
+              } 
         });
 
 })(jQuery);

@@ -7,6 +7,7 @@ permalink: /male-health/index.html
 ##How Acupuncture can help Men’s Health?
 
 Acupuncture is a complex diagnostic system that gives a unique view of different ways in which the functioning of our bodies goes wrong, the kinds of symptoms these irregularities produce and effective solutions to resolve these irregularities. Acupuncture treatment addresses many male health issues but below you can find a list of commonly helped problems.
+These are only the very common conditions people seek help with so, if the thing you are having trouble with is not listed, [please get in touch](#contact-trigger){: .contact-trigger} and we can explore whether Acupuncture might be able to help you.
 
 ### Prostatitis
 

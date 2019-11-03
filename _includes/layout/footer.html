@@ -20,21 +20,22 @@
 
 <!-- Contact -->
  	
-<section id="contact-trigger" class="wrapper">
-    <div class="inner">
+<section id="contact-trigger" class="wrapper no-bottom-pad ">
+    <div class="inner ">
                   	
       <h2>Please get in Touch</h2>
-                <blockquote> If something is troubling you, now is the best time to ask about it so please get in touch. <br/><strong>You can get in touch now using your preferred method shown below.</strong> If you just want advice, that is absolutely fine, I am an Acupuncturist because I love supporting people so will spend as much time as you need talking about your situation.
+                <blockquote> If something is troubling you, now is probably the best time to ask about it so please get in touch. <br/><strong>You can get in touch now using your preferred method shown below.</strong> If you just want advice, that is absolutely fine, I trained as an Acupuncturist because I have a passion for helping people so we can spend as much time as you need talking about your situation.
                     </blockquote>
-       <a class="contact-trigger" href="#" >Open</a>
+       <button class="contact-trigger icon fa-caret-down" id="contact-trigger-button">View Contact Details</button>
    
     </div>
 </section>
     
  
     
-<section id="contact" class="wrapper split">
-		<div class="inner">
+<!--<section id="contact" class="wrapper split">-->
+<section  class="wrapper content-pad split no-top">
+		<div class="inner" id="contact">
             <section>
                  
               
@@ -81,32 +82,8 @@
 			</section>
 			<section>
 			
-				<form method="post" action="#">
-					<div class="row gtr-uniform">
-						<div class="col-6 col-12-large col-6-medium col-12-xsmall">
-							<label for="name">Name</label>
-							<input type="text" name="name" id="name" />
-						</div>
-						<div class="col-6 col-12-large col-6-medium col-12-xsmall">
-							<label for="email">Email</label>
-							<input type="email" name="email" id="email" />
-						</div>
-						<div class="col-6 col-12-large col-6-medium col-12-xsmall">
-							<label for="email">Phone Number</label>
-							<input type="email" name="tel" id="tel" />
-						</div>
-						<div class="col-12">
-							<label for="message">Message</label>
-							<textarea name="message" id="message" rows="5"></textarea>
-						</div>
-						<div class="col-12">
-							<ul class="actions">
-								<li><input type="submit" value="Send Message" class="primary" /></li>
-								<li><input type="reset" value="Reset" /></li>
-							</ul>
-						</div>
-					</div>
-				</form>
+                            {% include contact-form.html %}
+                            
 			</section>
 		
 		</div>
@@ -117,7 +94,6 @@
 		<div class="inner">
 			<p class="copyright">&copy; {{ site.time | date: '%Y' }} Clear Spring Acupuncture. All rights reserved. .</p>
 			<ul class="menu">
-				<li><a href="#">Terms<span> of Use</span></a></li>
 				<li><a href="privacy-policy.html">Privacy<span> Policy</span></a></li>
 			</ul>
 		</div>

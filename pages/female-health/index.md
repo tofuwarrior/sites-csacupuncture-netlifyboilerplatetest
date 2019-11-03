@@ -1,12 +1,14 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Female Health Issues
-permalink: /female-health/index.html
+title: Womens Health Issues
+permalink: /womens-health/index.html
 ---
 
-## Female Health
-Acupuncture has much to offer in the area of women's health, in fact in many areas it can resolve problems that many women believe they have to just put up with, period pain and PMT being a good example.
+## Womens Health
+Acupuncture has much to offer in the area of women's health, in fact in many areas it can resolve problems that many women believe they have to just put up with, period pain and PMT being a good example. 
+These are some of the common women's health issues that people access Acupuncture for. 
+These are only the very common conditions people seek help with so, if the thing you are having trouble with is not listed, [please get in touch](#contact-trigger){: .contact-trigger} and we can explore whether Acupuncture might be able to help you.
 
 ### Period Pain and Menstrual Cycle Irregularities
  If you or your daughter are having difficulties with menstrual issues, Acupuncture is a treatment option that has an excellent chance of helping. It has a regulating function on the body and particularly the menstrual cycle and the emotions. Unlike medication it doesn’t just treat the symptoms as they occur, but has a lasting effect addressing the underlying cause of your menstrual difficulties.

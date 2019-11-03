@@ -90,7 +90,8 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "excerpt", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "string"}
-      - {label: "location", name: "location", widget: "string"}
-      - {label: "name", name: "name", widget: "string"}
+      - {label: "Age", name: "age", widget: "integer"}
+      - {label: "patient-type", name: "patient-type", widget: "string"}
+      - {label: "gender", name: "gender", widget: "string"}
       - {label: "Show Excerpt", name: "showexcerpt", widget: "boolean", default: false}
       - {label: "Show Dark Background", name: "darkback", widget: "boolean", default: true}      
