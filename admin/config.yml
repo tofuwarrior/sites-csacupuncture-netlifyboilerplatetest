@@ -35,7 +35,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Page"
     folder: "pages"
     sort: "title:asc"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
@@ -85,12 +85,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Custom Tags", name: "customtags", widget: "relation", collection: "customtags", displayFields: ["customtag"], searchFields: ["customtag"],  valueField: "customtag",  multiple: true, required: false}
   - name: "testimonials"
     label: "Testimonials"
-    folder: "customcollections/_testimonials"
+    folder: "_testimonials"
     create: true
     fields:
       - {label: "excerpt", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "string"}
-      - {label: "Age", name: "age", widget: "integer"}
+      - {label: "Age", name: "age", widget: "number", default: 30, valueType: "int"}
       - {label: "patient-type", name: "patient-type", widget: "string"}
       - {label: "gender", name: "gender", widget: "string"}
       - {label: "Show Excerpt", name: "showexcerpt", widget: "boolean", default: false}

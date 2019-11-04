@@ -4,19 +4,20 @@
 
 <h2>What Patients Say</h2>
 
-<!--<section class="spotlight" id="testimonials">-->
-<section id="testimonials" class="slider">
+<section id="testimonials" class="slider"  data-featherlight-gallery      data-featherlight-filter="article">
         {% for testimonial in site.testimonials %}
-            <article data-position="top">
+            <article data-position="top" data-featherlight="{{ testimonial.image }}">
                     <img src="{{ testimonial.image }}" title ="{{ testimonial.excerpt | strip_html}}" >
                        
             </article>
+        {% comment %}
          {% if testimonial.showexcerpt %}
                                 <div class="wrapper   {% if testimonial.darkback %}dark{%endif%}">
                                      <blockquote>{{ testimonial.age | remove: "<p>" | remove: "</p>" }} year old, {{ testimonial.gender | remove: "<p>" | remove: "</p>" }}</blockquote>
                                      <i>{{ testimonial.excerpt | truncate: 200}} </i>
                                  </div>
-                        {% endif %} 
+                        {% endif %}
+                        {% endcomment %}
         {% endfor %}
 </section>
 <br><br>

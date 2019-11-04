@@ -2,7 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: Acupuncture for Support with Assisted Reproduction Therapy - IVF, ICSI, IUI etc
-permalink: /fertility/pregnancy-birth.html
+permalink: /fertility/assisted-reproduction.html
 ---
 
 ## Acupuncture for Support with Assisted Reproduction Therapy - IVF, ICSI, IUI etc

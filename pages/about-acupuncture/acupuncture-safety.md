@@ -2,7 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: What Is Acupuncture?
-permalink: /about-acupuncture/how-does-acupuncture-work.html
+permalink: /about-acupuncture/acupuncture-safety.html
 ---
 
 ## Acupuncture Safety

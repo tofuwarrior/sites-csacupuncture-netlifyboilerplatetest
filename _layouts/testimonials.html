@@ -36,6 +36,8 @@ layout: default
                 </div>
 	</header>
 
+You can view all my google reviews by <a class="button" href="https://goo.gl/QK3EJk">clicking here</a>.
+
 <!-- gatewaytiles -->
 	<section id="testimonials-gallery" class="">
             <div class="box alt">
@@ -45,10 +47,11 @@ layout: default
             <div class="col-4" >
                  {% if testimonial.showexcerpt %}
                                 <h5>{{ testimonial.excerpt | truncate: 30}}</h5>
+                                 <b>{{ testimonial.age | remove: "<p>" | remove: "</p>" }} year old, {{ testimonial.gender | remove: "<p>" | remove: "</p>" }} </b>
                                
                         {% endif %} 
                 <span class="image fit"><img src="{{ testimonial.image }}" title ="{{ testimonial.excerpt | strip_html}}- {{ testimonial.age | remove: "<p>" | remove: "</p>" }} year old, {{ testimonial.gender | remove: "<p>" | remove: "</p>" }}" ></span>
-                 <b>{{ testimonial.age | remove: "<p>" | remove: "</p>" }} year old, {{ testimonial.gender | remove: "<p>" | remove: "</p>" }} </b>
+                
                 
              </div>
         {% endfor %}

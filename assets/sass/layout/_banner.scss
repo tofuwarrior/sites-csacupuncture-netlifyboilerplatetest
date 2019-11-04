@@ -14,7 +14,7 @@
 
 		&:after {
 			@include vendor('pointer-events', 'none');
-			@include vendor('transition', 'opacity 1.5s ease-in-out, visibility 1.5s');
+			@include vendor('transition', 'opacity 1s ease-in-out, visibility 1s');
 			background: #000511;
 			content: '';
 			display: block;
@@ -72,7 +72,7 @@
 		}
 
 		> article {
-			@include vendor('transition', 'opacity 1.5s ease, visibility 1.5s');
+			@include vendor('transition', 'opacity 1s ease, visibility 1s');
 			background-attachment: fixed;
 			background-position: center top !important;
 			background-repeat: no-repeat;
@@ -211,80 +211,8 @@
                 > article {
                         @include vendor('transition', 'opacity 1.5s ease, visibility 1.5s');
 			background-attachment: scroll !important;
-			/*background-position: center;*/
 			background-size: contain;
                         background-repeat: no-repeat;
-			/*height: 100%;
-			left: 0;
-			opacity: 0;
-			position: absolute;
-			text-align: center;
-			top: 0;
-			visibility: hidden;
-			width: 100%;
-			z-index: 0;
-
-			&:before {
-				content: '';
-				display: inline-block;
-				height: 100%;
-				vertical-align: middle;
-			}
-
-			&:after {
-				content: '';
-				display: block;
-				width: 100%;
-				height: 100%;
-				position: absolute;
-				top: 0;
-				left: 0;
-				background: #000;
-				opacity: 0.35;
-			}
-
-			}
-
-
-		@include breakpoint('<=medium') {
-			min-height: 20em;
-			height: 20em;
-		}
-
-		@include breakpoint('<=small') {
-			min-height: 15em;
-
-			> article {
-				.inner {
-					width: 90%;
-				}
-
-			
-			}
-		}
-                body.is-mobile & {
-			> article {
-				background-attachment: fixed;
-			}
-		}
-
-		
-	}
-        
-        
-	.banner-narrow {
-		@include color-typography(accent1);
-		min-height: 25em;
-		height: 30vh;
-
-
-		@include breakpoint('<=medium') {
-			min-height: 20em;
-			height: 25vh;
-
-/*			> article {
-				background-attachment: scroll;
-			}*/
 		}
 
 		@include breakpoint('<=small') {
@@ -295,11 +223,6 @@
 				.inner {
 					width: 90%;
 				}
-
-/*				h2 {
-					font-size: 1.75em;
-					line-height: 1.25em;
-				}*/
 			}
 		}
 

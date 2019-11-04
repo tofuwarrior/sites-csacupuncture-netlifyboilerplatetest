@@ -30,6 +30,8 @@
 		<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/noscript.css" /></noscript>
+                <link href="{{ site.baseurl }}/assets/css/featherlight.min.css" type="text/css" rel="stylesheet" />
+                <link href="{{ site.baseurl }}/assets/css/featherlight.gallery.min.css" type="text/css" rel="stylesheet" />
 	</head>
         
         
@@ -49,6 +51,8 @@
 			<script src="{{ site.baseurl }}/assets/js/breakpoints.min.js"></script>
 			<script src="{{ site.baseurl }}/assets/js/util.js"></script>
 			<script src="{{ site.baseurl }}/assets/js/main.js"></script>
+                        <script src="{{ site.baseurl }}/assets/js/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+                        <script src="{{ site.baseurl }}/assets/js/featherlight.gallery.min.js" type="text/javascript" charset="utf-8"></script>
 
 	</body>
 </html>

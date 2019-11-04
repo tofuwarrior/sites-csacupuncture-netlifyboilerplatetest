@@ -7,7 +7,7 @@ permalink: /about-acupuncture/treatment-methods.html
 
 ## Treatment Methods
 
-Below is a summary of the main treatment methods I use, there is a lot of cross over in the effect of treatment methods so if for some reason you don’t like one then I can often use another in it”s place.
+Below is a summary of the main treatment methods I use, there is a lot of cross over in the effect of treatment methods so if for some reason you don’t like one then I can often use another in it's place.
 
 ### Acupuncture Needling
 
@@ -30,4 +30,3 @@ Chinese cupping involves the creation of a partial vacuum in a smooth glass ‘c
 
 ### Guasha
 With Guasha a smooth tool is used to gently rub over the skin. This stimulates blood flow to the skin in a similar manner to cupping and is used to treat similar conditions.
-
