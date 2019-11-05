@@ -29,24 +29,26 @@ layout: default
 		<div class="inner">
 
 <!-- Content -->
-	<header class="major">
+	<header class="">
 		<div class="inner">   
                     <h2> Testimonials</h2>
                   {% include page-intro.html %}
                 </div>
 	</header>
 
-You can view all my google reviews by <a class="button" href="https://goo.gl/QK3EJk">clicking here</a>.
-
+<h2> Reviews On Google </h2>
+ <a class="button" href="https://goo.gl/QK3EJk" target="_blank">View live reviews on google by clicking here and waiting a few seconds for them to to load</a>.
+<hr/> 
+ <h2> Messages I have Received Directly</h2>
 <!-- gatewaytiles -->
 	<section id="testimonials-gallery" class="">
             <div class="box alt">
 <div class="row gtr-uniform gtr-50">
 
                 {% for testimonial in site.testimonials %}
-            <div class="col-4" >
+            <div class="col-4 testimonial" >
                  {% if testimonial.showexcerpt %}
-                                <h5>{{ testimonial.excerpt | truncate: 30}}</h5>
+                                <h4>{{ testimonial.excerpt | truncate: 30}}</h4>
                                  <b>{{ testimonial.age | remove: "<p>" | remove: "</p>" }} year old, {{ testimonial.gender | remove: "<p>" | remove: "</p>" }} </b>
                                
                         {% endif %} 

@@ -7,7 +7,7 @@
 <section id="testimonials" class="slider"  data-featherlight-gallery      data-featherlight-filter="article">
         {% for testimonial in site.testimonials %}
             <article data-position="top" data-featherlight="{{ testimonial.image }}">
-                    <img src="{{ testimonial.image }}" title ="{{ testimonial.excerpt | strip_html}}" >
+                    <img src="{% if testimonial.thumb == '' %}{{ testimonial.image }}{% else %}{{ testimonial.thumb }} {% endif %}" title ="{{ testimonial.excerpt | strip_html}}" >
                        
             </article>
         {% comment %}
@@ -22,7 +22,7 @@
 </section>
 <br><br>
     <ul class="actions">
-            <li><a href="/what-patients-say.html" class="button">Read more...</a></li>
+            <li><a href="/what-patients-say.html" class="button">Click to view all...</a></li>
     </ul>
 
 
