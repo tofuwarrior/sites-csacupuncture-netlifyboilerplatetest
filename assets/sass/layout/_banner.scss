@@ -11,6 +11,7 @@
 		min-height: 40em;
 		height: 75vh;
 		position: relative;
+                /*margin-top: 10em;*/
 
 		&:after {
 			@include vendor('pointer-events', 'none');
@@ -74,7 +75,7 @@
 		> article {
 			@include vendor('transition', 'opacity 1s ease, visibility 1s');
 			background-attachment: fixed;
-			background-position: center top !important;
+			background-position: center top;
 			background-repeat: no-repeat;
 			background-size: cover;
 			height: 100%;
@@ -120,7 +121,7 @@
                         
                         .inner.dark{
                             /*background-color: rgba(0,0,0, 0.2);*/
-                            text-shadow: 1px 1px 1px #000
+                            text-shadow: 2px 2px 3px #333;
                             
                         }
 
@@ -134,6 +135,11 @@
 					display: none;
 				}
 			}
+                        
+                        p{
+                            
+                            font-size: 120%;
+                        }
 
 			img {
 				display: none;
@@ -193,6 +199,14 @@
 					line-height: 1.25em;
 				}
 			}
+                        > article.alignright {
+                            background-position: center right;
+                            
+                        }
+                        > article.alignleft {
+                            background-position: center left;
+                            
+                        }
 		}
 
 		body.is-mobile & {
@@ -200,6 +214,7 @@
 				background-attachment: scroll;
 			}
 		}
+                
 	}
         
         

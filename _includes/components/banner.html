@@ -33,7 +33,8 @@
 		{% for slide in site.bannerslides %}
                      {% for testtag in slide.customtags %}
                     {% if testtag == include.customtag %}
-			<article>
+                     {% capture size %}{{ slide.addclass | size }}{% endcapture %}
+			<article {% unless size == "" %}class="{{slide.addclass}}"{%endunless%}>
 				<img src="{{ site.baseurl }}{{ slide.image }}" alt="{{ slide.imagealt }}" />
 				<div class="inner {% if slide.darkback %}dark{%endif%}">
                                     <h2><a href="{{ slide.url }}">{{ slide.title }}</a></h2>

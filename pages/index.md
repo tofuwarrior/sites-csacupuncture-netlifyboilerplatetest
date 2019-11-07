@@ -10,9 +10,9 @@ intro_paragraph: >
   CSS Grid layout, sample
   pages and posts, and a continuous deployment workflow.
 navtiles_paragraph: >
-  I run a comprehensive general practise clinic for all ages.
+  I completed my Acupuncture degree in 2012,  I run a comprehensive general practise clinic for all ages.
 
-  Since completing my Acupuncture degree in 2012, I have accumulated extensive specialist training and experience in the **treatment of children & young people** and the **treatment of fertility**.
+  I also have specialist training and experience in the **treatment of children & young people** and the **fertility related treatment**.
 
 features:
 - icon: fa-pencil

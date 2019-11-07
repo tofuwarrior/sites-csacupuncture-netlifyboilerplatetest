@@ -362,14 +362,9 @@
                                 
             //set contact block to be non visible only if javascript is enabled.
             $content = $("#contact");
-            console.log("setup"); 
              $content.slideToggle(500);
         // Toggle contact block at bottom
         $(".contact-trigger").click(function () {
-            console.log("trigger");
-            
-            //close it for setup if jquery is working
-            
             //open up the content needed - toggle the slide- if visible, slide up, if not slidedown.
             if (!$content.is(":visible")) {
                 $content.slideToggle(500);
