@@ -109,6 +109,17 @@
 			line-height: 1.5em;
 		}
 	}
+        
+        h2,h3, h4,h5{
+             small{
+                font-size: 50%;
+                padding: 0;
+                margin-top: -0.5em;
+                display: block;
+                position: absolute;
+        }
+            
+        }
 
 	sub {
 		font-size: 0.8em;
@@ -217,3 +228,5 @@
 	}
 
 	@include color-typography;
+        
+       

@@ -39,7 +39,7 @@ layout: default
 <h2> Reviews On Google </h2>
  <a class="button" href="https://goo.gl/QK3EJk" target="_blank">View live reviews on google by clicking here and waiting a few seconds for them to to load</a>.
 <hr/> 
- <h2> Messages I have Received Directly</h2>
+<h2> Messages I have Received <small>(click thumbnails to enlarge)</small></h2>
 <!-- gatewaytiles -->
 	<section id="testimonials-gallery" class="">
             <div class="box alt">
@@ -47,12 +47,8 @@ layout: default
 
                 {% for testimonial in site.testimonials %}
             <div class="col-4 testimonial" data-featherlight="{{ testimonial.image }}">
-               
-                    
                  {% if testimonial.showexcerpt %}
-                                <h4>{{ testimonial.excerpt | truncate: 30}}</h4>
-                                 <b>{{ testimonial.age | remove: "<p>" | remove: "</p>" }} year old, {{ testimonial.gender | remove: "<p>" | remove: "</p>" }} </b>
-                               
+                 <h4>{{ testimonial.excerpt}}<small>{{ testimonial.age | remove: "<p>" | remove: "</p>" }} year old, {{ testimonial.gender | remove: "<p>" | remove: "</p>" }} </small></h4>
                         {% endif %} 
                           {% capture thumbsize %}{{ testimonial.thumb | size }}{% endcapture %}
                 <span class="image fit"><img src="{% if thumbsize == "0" %}{{testimonial.image}}{% else %}{{testimonial.thumb}}{% endif %}" title ="{{ testimonial.excerpt | strip_html}}- {{ testimonial.age | remove: "<p>" | remove: "</p>" }} year old, {{ testimonial.gender | remove: "<p>" | remove: "</p>" }}" ></span>

@@ -7,4 +7,4 @@ customtags:
   - tiles-what-can-acupuncture-treat
   - tiles-emotional-wellbeing
 ---
-If you are depressed you may be feeling feeling powerless because even though we want to feel happier, we can't just change our emotional state with a click of our fingers. Acupuncture works to balance the body & mind, by understanding where our system is depressed and where overloaded, treatment can help bring us to a state where we feel energy, motivation and joy once more.
+When we are depressed we can feel powerless or trapped because even though we want to feel more content, we can't just change our emotional state with a click of our fingers. Acupuncture works to balance the body & mind, by understanding where our system is depressed and where overloaded, treatment can help bring us to a state where we feel energy, motivation and joy once more.
