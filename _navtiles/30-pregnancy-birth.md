@@ -8,4 +8,4 @@ customtags:
   - tiles-what-can-acupuncture-treat
   - tiles-gender-health
 ---
-Sadly, Pregnancy often can be challenging. Acupuncture is one of the safest forms of medicine for you and your baby and provides relief to women every day.
+While being an amazing journey, pregnancy often can involve significant emotional or physical difficulties. Acupuncture is one of the safest forms of medicine for you and your baby and, every day, helps women enjoy rather than survive pregnancy.
