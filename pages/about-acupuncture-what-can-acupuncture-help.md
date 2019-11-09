@@ -11,7 +11,5 @@ intro_paragraph: |
 
   As well as physical health benefits,  Acupuncture treatment also helps people feel better emotionally, so my clients often report more personal effects like feeling more energised, content, confident, relaxed etc Many people come to be specifically for help with issues relating to their emotions.
 
-  If you are unsure whether it might be able to help you then please [contact me](#contact-trigger){.contact-trigger} using the details below for an informal chat. If Acupuncture would not be helpful, I can normally suggest another reliable professional practitioner in the area who might be able to help.
-
-  ### Common areas for which Acupuncture is commonly used are but not limited to:
+  Below you can find details on some common areas for which Acupuncture is used. If you are unsure whether it might be able to help you then please [contact me](#contact-trigger){: .contact-trigger} using any of the methods at the bottom of this page. If Acupuncture would not be helpful, I can normally suggest another reliable professional in the area who might be able to help.
 ---
