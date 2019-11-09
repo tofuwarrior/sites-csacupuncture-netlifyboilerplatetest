@@ -1,6 +1,6 @@
 ---
 title: Female Fertility
-image: /images/uploads/shutterstock_66226753.jpg
+image: /images/uploads/women-pregnancy-test-551x297.jpg
 href: /fertility/female.html
 customtags:
   - women

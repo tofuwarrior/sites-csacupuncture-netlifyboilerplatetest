@@ -139,6 +139,8 @@
 		margin: 0 0 _size(element-margin) 0;
 		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
 	}
+        
+        
 
 	code {
 		border: solid 1px;
@@ -211,10 +213,19 @@
 
 		h1, h2, h3, h4, h5, h6 {
 			color: _palette($p, fg-bold);
+                        /*color: #279fb9;*/
+                        border-color: #279fb9;
+		}
+		h1.emph, h2.emph, h3.emph, h4.emph, h5.emph, h6.emph {
+			color: #279fb9;
 		}
 
 		blockquote {
 			border-left-color: _palette($p, border);
+		}
+                
+		blockquote.emph {
+			border-left-color: #279fb9;
 		}
 
 		code {
