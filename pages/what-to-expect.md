@@ -12,7 +12,8 @@ Acupuncture is an amazing and gentle form of medicine so the first thingts you o
   * be cared for with passion and commitment and 
   * to get well.
 
-> Having experienced personally some of how authentic Traditional Acupuncture can improve our lives I left my previous career to dedicate myself to using it to help others so your wellbeing is always my number one focus.{:.emph}
+> Having experienced personally some of how authentic Traditional Acupuncture can improve our lives I left my previous career to dedicate myself to using it to help others so your wellbeing is always my number one focus.
+{: .emph}
 
 ### About The Initial Consultation
 The initial consultation is where we discuss your situation so you can tell me everything that is important to you and so I can gather a comprehensive understanding of your health and wellbeing and what you want help with. This session also includes treatment.

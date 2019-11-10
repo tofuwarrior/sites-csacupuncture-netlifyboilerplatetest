@@ -6,7 +6,10 @@ permalink: /about-me/biography.html
 ---
 
 ## Biography
-My name is Paul Burdon, I’m 45.  I am an Acupuncturist and I love being an Acupuncturist because of what it can do for people. I can’t imagine more rewarding work than leaving people feeling healthy and getting more from what life has to offer.
+My name is Paul Burdon, I’m 45.  I am an Acupuncturist and I love being an Acupuncturist because of what it can do for people. I can’t imagine more rewarding work than leaving people feeling healthy and getting more from what life has to offer. I provide individualised, patient-centred Acupuncture treatments that are focused on addressing what matters to you. 
+
+> In both my professional and personal life, I believe in nourishing people from the inside out and forming long lasting relationships based on trust, integrity and commitment.
+{: .emph}
 
 I have been married since 2008 years and am also very lucky to have a young son who was born in 2012, he keeps me fully occupied outside of work!
 Being a husband and parent is great and is the most important and fulfilling thing to me outside of my work time.
@@ -16,7 +19,7 @@ My main passion outside of my family and Acupuncture is Tai Chi. Tai Chi is a fo
 
 ### Why did I train as an Acupuncturist?
 
-[Click here to briefly read why I was inspired to train as an Acupuncturist.](/about-me/why-did-i-train-as-an-acupuncturist.html)
+[Click here to read a brief explanation of how I was inspired to train as an Acupuncturist.](/about-me/why-did-i-train-as-an-acupuncturist.html)
 
 
 ### Work and Education

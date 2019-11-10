@@ -26,5 +26,5 @@ features:
 - icon: fa-cloud
   title: What Should You Expect?
   excerpt: You should expect to feel cared about. You will be listened to carefully every time I see you, what you share with me will be taken seriously and you will be treated professionally, kindly and with a deep commitment to your wellbeing.  Click to find out more.
-  url: what-should-I-expect.html
+  url: what-to-expect.html
 ---
