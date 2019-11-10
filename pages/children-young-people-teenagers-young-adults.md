@@ -19,14 +19,12 @@ Acupuncture influences many bodily systems but issues teenagers and young people
 <ul>
     <li>Emotional distress like anxiety, depression and irritability</li>
     <li>Injuries and muscular pain</li>
-    <li>Skin issues like Acne</li>    
+    <li>Skin issues including Acne</li>    
     <li>Digestive problems</li>
     <li>Menstrual cycle difficulties</li>
     <li>Appetite issues</li>
-    <li>Allergies</li>
+    <li>Food & other allergies</li>
     <li>Problems with sleeping</li>
      <li>Migraines & headaches</li>
     <li>Asthma</li>
 </ul> 
-
-  > this is a list of common conditions If the issue you, or the young person you care for, is having difficulty with is not in this brief list, it doesn't mean Acupuncture can't help it, these are only examples of common problems. Just get in touch and we can explore whether Acupuncture might be able to help.

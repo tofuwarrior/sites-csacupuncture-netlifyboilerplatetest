@@ -9,4 +9,4 @@ customtags:
   - tiles-what-can-acupuncture-treat
   - tiles-gender-health
 ---
-When couples struggle to conceive, the focus is often on the woman in the relationship but in many cases, support is helpful for the man. Acupuncture, with advice where appropriate can positively influence sperm count and quality as well as other fertility related issues.
+When couples struggle to conceive, the focus is often on the woman in the relationship but in many cases, support is helpful for the man. Acupuncture, with advice where helpful, can positively influence sperm count and quality as well as other fertility related issues.
