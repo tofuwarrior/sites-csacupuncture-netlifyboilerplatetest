@@ -1,6 +1,6 @@
 ---
 title: What Can It Help
-image: /images/uploads/baby-in-towel-551x297.jpg
+image: /images/uploads/acupuncture-model-back551x297.jpg
 href: /about-acupuncture/what-can-acupuncture-help.html
 customtags:
   - tiles-aboutacupuncture

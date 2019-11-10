@@ -5,7 +5,8 @@ title: Acupuncture for Female Fertility
 permalink: /fertility/female-fertility.html
 ---
 ## Acupuncture for Women's Fertility
- Many women and men experience fertility issues and although the causes are not always fully understood, issues such as waiting longer to have a child, increased environmental toxins, modern diets and stress or pressures from modern lifestyles can all seen be significant factors as well as any issues specific to you as an individual. Difficulties conceiving or carrying a pregnancy can be immensely distressing so please remember you are not alone.  Acupuncture may be able to help you, just as it has helped many thousands of women before you. You can get in touch to talk about your situation without any cost or obligation.
+ Many women and men experience fertility issues and although the causes are not always fully understood, issues such as waiting longer to have a child, increased environmental toxins, modern diets and stress or pressures from modern lifestyles can all be significant factors as well as any indvidual issues. Difficulties conceiving or carrying a pregnancy can be immensely distressing but, sadly, are also common so please remember you are not alone. 
+Acupuncture may be able to help you, just as it has helped many thousands of women before you. Please feel free to get in touch to talk about your situation. It is very important to me that you are able to freely explore whether Acupuncture feels right for you so there is no cost or obligation.
 
 ### What Treatment Has to Offer
 Acupuncture has an established scientific reputation for increasing the success rates of people trying for a baby. 
@@ -19,7 +20,7 @@ Acupuncture frequently resolves fertility issues without additional medical trea
 These are all personal decisions which I support you in making with emotional support and advice.
 
 ### My Fertility Experience & Training
-As well as my years of accumulated experience and additional study since I graduated in 2012, I have also completed extensive additional fertility training delivered by Jane Lyttleton who is an internationally respected author and educator in the field of Acupuncture and fertility.  I have been helping both male and female patients with fertility related issues since 2013.
+  As well as accumulated experience and additional study since I graduated in 2012, I have also completed extensive additional fertility training delivered by Jane Lyttleton who is an internationally respected author and educator in the field of Acupuncture and fertility.  I have been helping both male and female patients with fertility related issues since 2013.
 
 
 ### What Treatment Involves
@@ -28,5 +29,5 @@ As well as my years of accumulated experience and additional study since I gradu
 Each time I see you, we review how you have been since the last appointment, look for signs of improvement and decide whether our current approach to treatment is still the best for you or whether we should make any adjustments. Each treatment is individual and tailored to how you are on the day I see you.
 
 ### Emotional Support
-  Struggling to conceive, especially when going through assisted reproduction treatment or when pregnancies have been lost can be very distressing. Providing you with empathy, understanding and a total, authentic, acceptance of your feelings, is central to how I work with all of my fertility clients. The desire to become a parent is one of the deepest human desires; I recognise and honour this with the deepest commitment to helping you in every way I can.
+  Struggling to conceive, especially when going through assisted reproduction treatment or when pregnancies have been lost, can be very distressing. Providing you with empathy, understanding and a total, authentic, acceptance of your feelings, is central to how I support you as my patient. The desire to become a parent is one of the deepest human desires; I recognise and honour this with the deepest commitment to supporting you in every way I can.
 

@@ -22,7 +22,7 @@ features:
 - icon: fa-paper-plane
   title: Am I the right Acupuncturist for you?
   excerpt: I provide individualised, patient-centred treatments that are focused on addressing what matters to you. I believe in nourishing people from the inside out and forming long lasting relationships based on trust, integrity and commitment. Click to find out more about my training, experience and approach.
-  url: about-me.html#myapproach
+  url: about-me/index.html
 - icon: fa-cloud
   title: What Should You Expect?
   excerpt: You should expect to feel cared about. You will be listened to carefully every time I see you, what you share with me will be taken seriously and you will be treated professionally, kindly and with a deep commitment to your wellbeing.  Click to find out more.

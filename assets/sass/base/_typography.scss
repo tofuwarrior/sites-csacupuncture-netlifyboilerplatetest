@@ -214,8 +214,9 @@
 		h1, h2, h3, h4, h5, h6 {
 			color: _palette($p, fg-bold);
                         /*color: #279fb9;*/
-                        border-color: #279fb9;
+                        /*border-color: #279fb9;*/
 		}
+                
 		h1.emph, h2.emph, h3.emph, h4.emph, h5.emph, h6.emph {
 			color: #279fb9;
 		}
@@ -226,6 +227,9 @@
                 
 		blockquote.emph {
 			border-left-color: #279fb9;
+                        font-size: 150%;
+                        font-style: normal;
+                        font-weight: 700;
 		}
 
 		code {

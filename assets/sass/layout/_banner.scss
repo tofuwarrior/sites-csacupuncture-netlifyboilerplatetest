@@ -247,8 +247,13 @@
         .testimonial
         {
             border:1px solid #efefef !important;
+            &:hover{
+                cursor:zoom-in;
+            }
             h4{
                 padding-bottom: 0.4em;
                 margin-bottom: 0.4em;
             }
+            
+            
         }
