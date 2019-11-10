@@ -10,7 +10,9 @@ Children are very responsive to Acupuncture.  Because they are so young, their s
 It is not widely known that Children's Acupuncture is often able to gently resolve many of the issues of childhood that we assume just have to be accepted.
 The majority of children happily accept Acupuncture treatment and for some children other Acupuncture treatment methods are often highly effective so in many cases they don't need needles.
 
-### Acupuncture helps many aspects of children's wellbeing but issues I commonly help are:
+### Acupuncture helps many aspects of children's wellbeing but issues I commonly help are found below. 
+If the issue the child you care for is having difficulty with is not in this brief list, [please get in touch](#contact-trigger){: .contact-trigger} and we can explore whether Acupuncture might be able to help.  
+
 * Digestive problems
 * Appetite issues & picky eating
 * Allergies

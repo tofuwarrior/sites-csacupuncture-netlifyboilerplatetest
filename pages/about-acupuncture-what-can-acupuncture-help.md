@@ -7,9 +7,9 @@ tilestag:  tiles-what-can-acupuncture-treat
 intro_paragraph: |
   Traditional Acupuncture is a complete system of diagnosis and treatment and as such is used to treat a very wide range of health conditions, too many to list. It is used to treat both humans but vets also use it to treat animals. 
 
-  While it is very effective for Adults and can treat a very wide range of conditions, Acupuncture is exceptionally effective for babies, children and teenagers. Treatment of younger children and babies often does not require needles but when it does, almost all children will happily accept Acupuncture treatment. I have a particular passion, and specialised training in the treatment of children. 
+  Aswell as being very effective for Adults, treating a very wide range of conditions, Acupuncture is also particularly effective for babies, children and teenagers. Treatment of younger children and babies often does not require needles but when it does, almost all children will happily accept Acupuncture treatment.
 
-  As well as physical health benefits,  Acupuncture treatment also helps people feel better emotionally, so my clients often report more personal effects like feeling more energised, content, confident, relaxed etc Many people come to be specifically for help with issues relating to their emotions.
+  Acupuncture treats a wide variety physical health issues but also can help us emotionally. It is usually possible to achieve both at the same time so my clients often report more personal effects like feeling more energised, content, confident, relaxed etc Many people come to be specifically for help with issues relating to their emotions.
 
   Below you can find details on some common areas for which Acupuncture is used. If you are unsure whether it might be able to help you then please [contact me](#contact-trigger){: .contact-trigger} using any of the methods at the bottom of this page. If Acupuncture would not be helpful, I can normally suggest another reliable professional in the area who might be able to help.
 ---

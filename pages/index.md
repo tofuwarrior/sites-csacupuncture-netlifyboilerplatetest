@@ -12,7 +12,7 @@ intro_paragraph: >
 navtiles_paragraph: >
   I completed my Acupuncture degree in 2012,  I run a comprehensive general practise clinic for all ages.
 
-  I also have specialist training and experience in the **treatment of children & young people** and the **fertility related treatment**.
+  I have specialist training and experience in the **treatment of babies, children & young people** and the **treatment of fertility related issues**.
 
 features:
 - icon: fa-pencil
@@ -27,4 +27,30 @@ features:
   title: What Should You Expect?
   excerpt: You should expect to feel cared about. You will be listened to carefully every time I see you, what you share with me will be taken seriously and you will be treated professionally, kindly and with a deep commitment to your wellbeing.  Click to find out more.
   url: what-to-expect.html
+
+posts:
+- image: /images/pic01.jpg
+  title: Congue portitor
+  excerpt: Aenean ultricies magna non sapien rhoncus, ac ullamcorper lorem convallis. Quisque at venenatis nisi, amet finibus mauris. Sed sodales ultricies eros, sit amet sodales sapien.
+  url: "#"
+- image: /images/pic02.jpg
+  title: Duis nisl euismod
+  excerpt: Ultrices nec metus. Aenean ultricies magna et sapien rhoncus ac ullamcorper lorem convallis. Quisque at venenatis nisi amet finibus mauris. Sed sodales ultricies magna etiam.
+  url: "#"
+- image: /images/pic03.jpg
+  title: Elementum auctor
+  excerpt: Quis interdum. Lorem quis lacus justo. Sed libero condimentum vehicula sem vel, mattis amet mauris. Nullam lacinia sit amet felis vel vestibulum. Morbi aliquam aenean.
+  url: "#"
+- image: /images/pic04.jpg
+  title: Urna vel lacinia
+  excerpt: Integer vel tincidunt lacus. Nulla augue nunc, eleifend quis leo ac, maximus interdum tellus. Etiam at vestibulum felis, id efficitur risus. Praesent ac nulla ex. Duis elementum.
+  url: "#"
+- image: /images/pic05.jpg
+  title: Neque et suscipit
+  excerpt: Libero condimentum, vehicula sem vel, mattis mauris. Nullam lacinia sit amet felis vel vestibulum. Morbi in aliquam est. Aenean dapibus porttitor nulla ultrices venenatis.
+  url: "#"
+- image: /images/pic06.jpg
+  title: Vestibulum placerat
+  excerpt: Tristique tellus et ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent mauris risus, pellentesque eu leo non, tincidunt.
+  url: "#"
 ---
