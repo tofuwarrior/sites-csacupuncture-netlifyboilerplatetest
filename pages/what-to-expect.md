@@ -12,14 +12,15 @@ Acupuncture is an amazing and gentle form of medicine so the first thingts you o
   * be cared for with passion and commitment and 
   * to get well.
 
-> Having experienced personally some of how authentic Traditional Acupuncture can improve our lives I left my previous career to dedicate myself to using it to help others so your wellbeing is always my number one focus.
+> I experienced personally how Traditional Acupuncture can improve our wellbeing. The experience inspired me to dedicate myself to using it to help others, so your wellbeing, and what is important to you, are always my top priorities.
 {: .emph}
+
+
 
 ### About The Initial Consultation
 The initial consultation is where we discuss your situation so you can tell me everything that is important to you and so I can gather a comprehensive understanding of your health and wellbeing and what you want help with. This session also includes treatment.
 
-In this comprehensive conversation we talk about all aspects of your health and wellbeing. It is by getting this comprehensive overview that an Acupuncturist is able to see patterns in your health that are causing your problems. Diagnosis in Traditional Acupuncture and other kinds of Chinese Medicine works by taking an overview of all of your wellbeing and spotting patterns in this that guide us to the best treatment for a specific issue. By understanding where there are areas in your body's functioning that are not working as well they could, we can understand what the root of your problem is and correct it.  
-**This resolves the source of your symptoms and so they stop.**
+In this comprehensive conversation we talk about all aspects of your health and wellbeing. It is by getting this comprehensive overview that an Acupuncturist is able to see patterns in your health that are causing your problems. Diagnosis in Traditional Acupuncture and other kinds of Chinese Medicine works by taking an overview of all of your wellbeing and spotting patterns in this that guide us to the best treatment for a specific issue. By understanding where there are areas in your body's functioning that are not working as well they could, we can understand what the root of your problem is and correct it.  **When this happens, the source of your issue has gone and so it stops bothering you.**
 
 You **remain either clothed or wearing a treatment gown** for both the initial consultation and treatment so your privacy is protected at all times. Depending on what you need help with, and as long as you are happy for me to do so, I may ask to check for tenderness by gently pressing Acupuncture points in different places on your body such as your belly, your back or on your arms and legs, this is because feelings of tenderness in specific areas can give information about the nature a problem. 
 
