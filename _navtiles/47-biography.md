@@ -6,4 +6,4 @@ href: /about-me/biography.html
 customtags:
   - tiles-about-me
 ---
-If you are interested...a little more about me, why I am an Acupuncturist and what I did before I trained.
+If you are curious...a little more about me, why I am an Acupuncturist and what I did before I trained.

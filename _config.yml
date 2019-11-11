@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jekyll Netlify Boilerplate
+title: Clear Spring Acupuncture Site based on Jekyll Netlify Boilerplate & Pixelarity Slate template
 email: paul@clearspringacupuncture.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -22,7 +22,6 @@ baseurl: "" # the subpath of your site if applicable, e.g. /blog
 url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Plugins
-#plugins: ["jekyll-paginate, jekyll-google-tag-manager, jekyll-feed"]
 plugins: ["jekyll-paginate"]
 
 # Permalink format (/blog/ is ignored for pages)
@@ -110,3 +109,28 @@ collections:
         output: false
     testimonials:
         output: false  
+        
+twitter:
+  username: csacupuncture
+  card: summary
+#facebook:
+#  app_id: 1234
+#  publisher: 1234
+#  admins: 1234  
+social:
+  name: Clear Spring Acupuncture
+  links:
+    - https://twitter.com/csacupuncture
+    - https://www.facebook.com/clearspringacupuncture
+    
+webmaster_verifications:
+  google: 43cdbda52d4c59f4
+#  bing: 1234
+#  alexa: 1234
+  
+title: Acupuncture in Cardiff - Clear Spring Acupuncture - Experienced, Individual Care
+description: Wondering if Acupuncture can help? Please call for a free consultation.
+  An Acupuncture degree & years of experience mean dedicated care for you with expertise and empathy
+url: https://www.clearspringacupuncture.co.uk
+author: Paul Burdon - Clear Spring Acupuncture
+lang: en

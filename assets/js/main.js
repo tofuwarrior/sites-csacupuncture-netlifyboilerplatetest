@@ -79,7 +79,8 @@
 
 			on = function() {
 
-				$t.css('background-position', 'center 100%, center 100%, center 0px');
+//				commented out because this causes initial offset of slide under header until page is scrolled 
+//				$t.css('background-position', 'center 100%, center 100%, center 0px');
 
 				$window
 					.on('scroll._parallax', function() {

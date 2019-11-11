@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Welcome
+title-tag: "Acupuncture in Cardiff - Experienced, Individual Care"
 permalink: /
 section: home
 intro_paragraph: >
@@ -10,20 +11,20 @@ intro_paragraph: >
   CSS Grid layout, sample
   pages and posts, and a continuous deployment workflow.
 navtiles_paragraph: >
-  I completed my Acupuncture degree in 2012,  I run a comprehensive general practise clinic for all ages.
+  I completed my Acupuncture degree in 2012. I run a comprehensive general practise clinic for adults, a young persons clinic for children and teenagers and a clinic for individuals and couples who need assistance conceiving or carrying a pregnancy.
 
-  I have specialist training and experience in the **treatment of babies, children & young people** and the **treatment of fertility related issues**.
+  Aswell as my years of general practise, I have specialist additional training and experience in the **treatment of babies, children & young people** and the **treatment of fertility related issues**.
 
 features:
-- icon: fa-pencil
+- icon: fa-check-square-o
   title: Can Acupuncture Help You?
-  excerpt: People the world over use Acupuncture to resolve a very wide range of both physical and emotional health issues.  It helps 1000s of people every day, if you are not sure if it can help you then please get in touch with me and ask or there is more information on this website.  
+  excerpt: People the world over use Acupuncture to resolve a very wide range of both physical and emotional health issues.  It helps 1000s of people every day, if you are not sure if it can help you then please [get in touch with me](#contact-trigger){:.contact-trigger} and ask or there is more information on this website.  
   url: about-acupuncture/index.html
-- icon: fa-paper-plane
+- icon: fa-handshake-o
   title: Am I the right Acupuncturist for you?
   excerpt: I provide individualised, patient-centred treatments that are focused on addressing what matters to you. I believe in nourishing people from the inside out and forming long lasting relationships based on trust, integrity and commitment. Click to find out more about my training, experience and approach.
   url: about-me/index.html
-- icon: fa-cloud
+- icon: fa-road
   title: What Should You Expect?
   excerpt: You should expect to feel cared about. You will be listened to carefully every time I see you, what you share with me will be taken seriously and you will be treated professionally, kindly and with a deep commitment to your wellbeing.  Click to find out more.
   url: what-to-expect.html
