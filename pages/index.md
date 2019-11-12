@@ -11,9 +11,9 @@ intro_paragraph: >
   CSS Grid layout, sample
   pages and posts, and a continuous deployment workflow.
 navtiles_paragraph: >
-  I completed my Acupuncture degree in 2012. I run a comprehensive general practise clinic for adults, a young persons clinic for children and teenagers and a clinic for individuals and couples who need assistance conceiving or carrying a pregnancy.
+  I completed my Acupuncture degree in 2012. I run a comprehensive general practise clinic for adults, a young person's clinic for babies, children and teenagers and a clinic for individuals and couples who need assistance conceiving or carrying a pregnancy.
 
-  Aswell as my years of general practise, I have specialist additional training and experience in the **treatment of babies, children & young people** and the **treatment of fertility related issues**.
+  As well as my accumulated experience since 2012, I have specialist additional training and experience in the **treatment of babies, children & young people** and the **treatment of fertility related issues**.
 
 features:
 - icon: fa-check-square-o

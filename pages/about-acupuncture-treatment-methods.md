@@ -1,8 +1,8 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Treatment Methods?
-permalink: /about-acupuncture/treatment-methods.html
+title: Acupuncture Treatment Methods
+permalink: /about-acupuncture/acupuncture-treatment-methods.html
 ---
 
 ## Treatment Methods
@@ -11,10 +11,10 @@ Below is a summary of the main treatment methods I use, there is a lot of cross 
 
 ### Acupuncture Needling
 
-Acupuncture needling is my main mode of treatment because of its great effectiveness and wide ranging effects. It involves the gentle insertion of single use, sterile needles that are a little thicker than a human hair. The needles are inserted into Acupuncture points in order to help stimulate the body’s natural tendency towards balance, this promotes better health. There are Acupuncture points all over the body and a Traditional Acupuncturist understands how to determine and select the best points to restore balance (and therefore health) to the patient concerned.  The insertion of needles is actually the simplest part of the practitioners job, it is the combination of developing an accurate Chinese Medical Diagnosis, a good understanding of the functions of Acupuncture points and most insightful selection of points for the particular patient that leads to the most successful outcomes from treatment.
+Acupuncture needling is my main mode of treatment because of its great effectiveness and wide ranging effects. It involves the gentle insertion of single use, sterile needles that are a little thicker than a human hair. The needles are inserted into Acupuncture points in order to help stimulate the body’s natural tendency towards balance, this promotes better health. There are Acupuncture points all over the body and a Traditional Acupuncturist understands how to determine and select the best points to restore balance (and therefore health) to the patient concerned.  The insertion of needles is actually the simplest part of the practitioners job; the major skill is in the developing an accurate Chinese Medical Diagnosis and determining the most insightful selection of Acupuncture points to lead to the most successful outcomes from treatment.
 
 ### Moxibustion
-Moxibustion (moxa) involves the slow burning (without flames) of the Chinese herb, Moxa, the moxa is lit with something similar to an incense stick and smoulders for a few seconds, gently warming the area in question. Moxibustion is essentially a treatment that warms people although its use in Chinese Medicine is more sophisticated than this. Moxa can be applied directly to the skin or indirectly by holding smouldering moxa over an Acupuncture point, there are also techniques where moxa is attached to an acupuncture needle t conduct gentle heat into an acupuncture point. In the hands of a properly trained practitioner it is completely safe.
+Moxibustion (moxa) involves the smouldering (without flames) of the Chinese herb Moxa on Acupuncture points, it is safely removed well before it can burn the skin.  A small cone of moxa is lit with something similar to an incense stick and smoulders for a few seconds, gently warming the area in question. Moxibustion is essentially a treatment that warms people although its use in Chinese Medicine is more sophisticated than this. Moxa can be applied directly to the skin or indirectly by holding smouldering moxa near to an Acupuncture point, there are also techniques where moxa is attached to an acupuncture needle to conduct gentle heat into an acupuncture point. In the hands of a properly trained practitioner it is completely safe.
 
 Moxibustion of the Acupuncture point Bladder 67 is used to turn breech babies and this is its most well known application [click here to view Journal of the American Medical Association research showing this](https://jama.jamanetwork.com/article.aspx?articleid=188144) but the use of moxa is applicable in a wide range of situations and it is widely used to support many different Acupuncture treatments.
 

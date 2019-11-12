@@ -2,7 +2,7 @@
 
 title: Treatment Methods
 image: /images/uploads/moxa-rolls-551x297.jpg
-href: /about-acupuncture/treatment-methods.html
+href: /about-acupuncture/acupuncture-treatment-methods.html
 customtags:
   - tiles-aboutme
   - tiles-aboutacupuncture
