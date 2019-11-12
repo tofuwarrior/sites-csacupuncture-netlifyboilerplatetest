@@ -1,11 +1,10 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Womens Health Issues
+title: Acupuncture for Womens Health
 permalink: /womens-health/index.html
 ---
 
-## Womens Health
 Acupuncture has much to offer in the area of women's health, in fact in many areas it can resolve problems that many women believe they have to just put up with, period pain and PMT being a good example. 
 These are some of the common women's health issues that people access Acupuncture for. 
 These are only the very common conditions people seek help with so, if the thing you are having trouble with is not listed, [please get in touch](#contact-trigger){: .contact-trigger} and we can explore whether Acupuncture might be able to help you.

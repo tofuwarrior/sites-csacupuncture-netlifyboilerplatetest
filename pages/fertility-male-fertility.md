@@ -5,7 +5,6 @@ title: Acupuncture for Male Fertility
 permalink: /fertility/male-fertility.html
 ---
 
-## Acupuncture for Male Fertility
  People can sometimes feel awkward about fertility issues and while this is a normal way to feel, it's also important to recognise that issues with fertility are now very common and are often not to do with you personally; sperm counts in western men have halved in the last 40 years decreasing by 1.4% per year. Although the causes are not clearly understood by science, issues such as increased environmental toxins, modern diets and stress from modern lifestyles are all seen as being significant factors. Acupuncture has a variety of ways to understand the problem and treatment to make a difference.
 
 ### What Treatment Has to Offer

@@ -4,8 +4,6 @@ sidebar_align: right
 title: Privacy Policy
 permalink: /privacy-policy.html
 ---
-## Privacy Policy
-
 This privacy policy sets out how we use and protects any information that you give me when you use this website. This policy is effective from 20 May 2018.
 
 As a professional Acupuncturist bound by the code of conduct of the British Acupuncture Society I am committed to complete confidentiality, this includes ensuring that your privacy is protected. Should I ask you to provide certain information by which you can be identified, it would only ever be used in accordance with this privacy statement.

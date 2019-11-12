@@ -1,11 +1,10 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Wellness Into Later Life
+title: Wellness in Later Life
 permalink: /wellness-later-life/index.html
 ---
 
-## Wellness in Later Life
 Acupuncture has an integrated understanding of ageing and provides many insights that can help us live better for longer. 
 
 An Acupuncture consultation gives a unique individual picture of your health that allows treatment to improve or resolve health issues.  Of course, things like taking adequate exercise, keeping our minds active and getting sufficient rest can help all people, even with these universal things, what is ‘adequate’ exercise changes from person to person and of course, as we age these differences can become more pronounced as our  bodies change as we progress through life.

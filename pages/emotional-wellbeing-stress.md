@@ -1,10 +1,10 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Emotional Wellbeing
+title: Acupuncture for Relieving Stress
 permalink: /emotional-wellbeing/stress.html
+image: /images/uploads/young-woman-lying-grass551x297.jpg
 ---
-## Acupuncture for Stress
   Most of us experience stress at some point and it is very common for teenagers and adults to experience stress. Sadly it is increasingly common in young children also. Stress is both a cause and an effect. When we are under stress it affects our bodies, this changes how we feel which then impairs our ability to deal with stress and so we end up in a vicious circle where we are unable to deal well with our stress and we get progressively worse. Acupuncture works by breaking this cycle, helping us to get back to feeling ourselves.
 
 ### How Can It Help?

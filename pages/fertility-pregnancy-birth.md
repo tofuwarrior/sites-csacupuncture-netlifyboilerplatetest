@@ -5,8 +5,6 @@ title: Pregnancy and Birth
 permalink: /fertility/pregnancy-birth.html
 ---
 
-## Pregnancy & Birth
-
 ### What Treatment Has to Offer
   Sadly, pregnancy often doesn't involve you 'glowing'. It is really common to experience difficulties as your body undergoes such a significant change and of course most drugs are not recognised as safe to take during pregnancy. Acupuncture is one of the safest forms of medicine for you and your baby and provides relief to women every day, helping you to enjoy your pregnancy not just survive it.
 

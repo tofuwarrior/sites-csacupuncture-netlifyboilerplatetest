@@ -3,8 +3,8 @@ layout: sidebar
 sidebar_align: right
 title: Babies & Toddlers
 permalink: /children-young-people/babies-toddlers.html
+image: /images/uploads/baby-in-towel-551x297.jpg
 ---
-## Babies & Toddlers
   As parents we know how many different challenges are experienced by babies & toddlers. They have to grow and develop an incredible amount in a very short space of time all with very immature body systems.
 
 It is not widely known that Children's Acupuncture is often able to gently resolve many of the issues of childhood that we assume just have to be accepted.

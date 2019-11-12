@@ -4,8 +4,6 @@ sidebar_align: right
 title: Common Questions
 permalink: /common-questions.html
 ---
-## Common Questions
-
 
 ### Booking Questions 
 1. [How do I book?](#how-do-i-book)

@@ -3,8 +3,8 @@ layout: sidebar
 sidebar_align: right
 title: Children
 permalink: /children-young-people/children.html
+image: /images/uploads/children-smiling-551x297.jpg
 ---
-## Children
 Children are very responsive to Acupuncture.  Because they are so young, their system has often not had enough time to get stuck out of balance so for many they need very minimal treatment to achieve a significant improvement. 
 
 It is not widely known that Children's Acupuncture is often able to gently resolve many of the issues of childhood that we assume just have to be accepted.

@@ -1,7 +1,7 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Female Health Issues
+title: Physical Health and Pain
 permalink: /physical-health/index.html
 ---
 

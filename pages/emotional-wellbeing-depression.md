@@ -1,10 +1,10 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Anxiety
+title: Acupuncture for Depression
 permalink: /emotional-wellbeing/depression.html
+image: /images/uploads/emotional-wellbeing-551x297.jpg
 ---
-## Acupuncture for Depression
   Depression can be a particularly distressing emotional state. I have treated a significant number of people struggling with depression over the years and I've noticed that it is very common for people to feel that they should be able to just 'snap out of it' or just to be able to change how they feel through their own mental discipline.  If you are feeling like this then I hope reading this will help you to take some pressure off yourself, when you are feeling depressed it is often because there are hormonoal or other imbalances in your system, these are the things that determine how we feel so it is a big ask to expect yourself to just change how you are feeling through willpower alone.  It is absolutely possible, and often very important, to engage in helpful practises that can help stimulate and balance the body and mind like Tai chi, Yoga or Meditation, exercise or changing diet and lifestyle, but it is uncommon for these to work like some kind of magic bullet, they tend to help gradually.
 
 Acupuncture is excellent at helping us deal with all sorts of emotional states and can often help get you out of the vicious circle of depression and help your feel at peace and alive once again.

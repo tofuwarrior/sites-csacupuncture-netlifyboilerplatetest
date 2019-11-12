@@ -1,7 +1,7 @@
 ---
 title: Freedom from Anxiety
 image: /images/uploads/middleaged-woman-chatting-sofa551x297.jpg
-href: /emotional-wellbeing.html
+href: /emotional-wellbeing/anxiety.html
 customtags:
   - tiles-what-can-acupuncture-treat
   - tiles-emotional-wellbeing

@@ -4,9 +4,8 @@ sidebar_align: right
 title: How To Book
 permalink: /how-to-book.html
 ---
-## How To Book
 
-You can either 
+You can either: 
 1 use the **simple online booking system on this page**, OR 
 2 [**contact me**](#contact) using any of the methods at the bottom of the page.
 If you can't make any of the clinic slots I have available, please get in contact, when it is genuinely difficult for people to attend treatment I am sometimes able to get additional clinic space.

@@ -1,11 +1,9 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Why Did I Train as an Acupuncturist
+title: Why Did I Train as an Acupuncturist?
 permalink: /about-me/why-did-i-train-as-an-acupuncturist.html
 ---
-
-### Why did I train as an Acupuncturist?
 
 The quick answer is that I wish to help people get the most out of what life has to offer and experiencing for myself some of the great benefits Acupuncture can bring, I decided to commit to training so that I could offer the same to other people.
 

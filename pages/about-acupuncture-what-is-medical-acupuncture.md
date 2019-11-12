@@ -4,8 +4,6 @@ sidebar_align: right
 title: What Is Medical Acupuncture?
 permalink: /about-acupuncture/what-is-medical-acupuncture.html
 ---
-## What is Medical Acupuncture?
-
 Medical Acupuncture is a more limited form of Acupuncture that is often used to help muscle and joint problems. It is different to Traditional Acupuncture which is the form of Acupuncture which has been practised in China for over 2000 years.
 
 A Medical Acupuncturist is someone who has a western anatomical training and has done a conversion course (usually lasting a few days) learning how to insert Acupuncture needles into specific points, this is usually in order to help with forms of pain. A traditional Acupuncture training takes years, usually at degree level. IN my case my training took 4 years.

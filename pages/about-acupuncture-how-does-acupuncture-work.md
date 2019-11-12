@@ -1,11 +1,9 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: What Is Acupuncture?
+title: How Does Acupuncture Work?
 permalink: /about-acupuncture/how-does-acupuncture-work.html
 ---
-
-## How Does Acupuncture Work?
 
 An Acupuncturist uses Chinese Medical theory to gain insight into a person’s current state of health and how they got there. They then treat the person to restore balance and hence health. Acupuncturists use various methods of treatment, most well known is the insertion of very fine Acupuncture needles but other forms of treatment can also be used such as Tui Na (Chinese therapeutic massage) Guasha, Cupping & Moxa.
 

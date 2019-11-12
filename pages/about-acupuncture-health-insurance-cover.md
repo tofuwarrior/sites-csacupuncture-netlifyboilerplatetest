@@ -1,10 +1,9 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Which Insurers Cover Acupuncture?
+title: Which Health Insurers Cover Acupuncture?
 permalink: /about-acupuncture/health-insurance-cover.html
 ---
-## Which Health Insurance Covers Acupuncture?
 
 <table class="table table-striped" border="0">
 <tbody>

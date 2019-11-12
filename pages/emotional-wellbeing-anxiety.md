@@ -1,10 +1,10 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Anxiety
+title: Acupuncture for Anxiety
 permalink: /emotional-wellbeing/anxiety.html
+image: /images/uploads/middleaged-woman-chatting-sofa551x297.jpg
 ---
-## Acupuncture for Anxiety
   Anxiety can be one of the more overwhelming emotional states. I have treated many people struggling with anxiety over the years and I've noticed that it is very common for people to feel that they should be able to just 'snap out of it' or just to be able to change how they feel through their own mental discipline.  If you are feeling like this then I hope reading this will help you to take some pressure off yourself, when you are feeling anxious it is often because there are high levels of stress hormones in your system, that is why you are feeling the way you are and it is a big ask to expect yourself to just change how you are feeling through willpower alone.  It is absolutely possible to engage in helpful practises that can help your body calm down like Tai chi, Yoga or Meditation, exercise or cutting down caffeine and changing diet but it is uncommon for these to work like some kind of magic bullet, they tend to help more gradually.
 
 Acupuncture is excellent and helping us deal with all sorts of emotional states and can often help get you out of the vicious circle of Anxiety and help your body and mind feel calm once again.

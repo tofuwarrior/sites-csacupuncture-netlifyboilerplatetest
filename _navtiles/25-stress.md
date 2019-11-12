@@ -1,6 +1,6 @@
 ---
 title: Release from Stress
-image: /images/uploads/middleaged-woman-chatting-sofa551x297.jpg
+image: /images/uploads/young-woman-lying-grass551x297.jpg
 href: /emotional-wellbeing/stress.html
 customtags:
   - tiles-what-can-acupuncture-treat

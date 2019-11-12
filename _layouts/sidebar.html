@@ -32,6 +32,12 @@ layout: default
 
 			<!-- Content -->
 				<div class="content">
+                                    <h2>{{page.title}}</h2>
+                                        {% if page.image %}
+                                                <span class="image right">
+                                                        <img src="{{ site.baseurl }}{{ page.image }}?nf_resize=fit&w=551" alt="{{ page.title }}">
+                                                </span>
+                                        {% endif %}
 					{{ content }}
 				</div>
 

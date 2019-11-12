@@ -1,11 +1,9 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Biography
+title: Professional Standards
 permalink: /about-me/professional-standards.html
 ---
-
-## Professional Standards
 
 I am a member of the British Acupuncture Council (BAcC) The BAcC is the main body representing Acupuncturists in the UK) `[www.acupuncture.org.uk](http://www.acupuncture.org.uk) and practise according to the BAcC professional standards for Acupuncturists.
 

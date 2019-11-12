@@ -23,6 +23,7 @@
 				width: 100%;
 			}
 		}
+                
 
 		&.left {
 			float: left;
@@ -54,5 +55,17 @@
 			img {
 				width: 100%;
 			}
+		}
+	}
+        
+        
+                
+                @include breakpoint('<=small') {
+		.image {
+			&.left,&.right {
+			max-width: 100%;
+                        margin: 0;
+                        margin-bottom: 1em;
+        		}
 		}
 	}

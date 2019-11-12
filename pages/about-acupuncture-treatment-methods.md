@@ -5,8 +5,6 @@ title: Acupuncture Treatment Methods
 permalink: /about-acupuncture/acupuncture-treatment-methods.html
 ---
 
-## Treatment Methods
-
 Below is a summary of the main treatment methods I use, there is a lot of cross over in the effect of treatment methods so if for some reason you don’t like one then I can often use another in it's place.
 
 ### Acupuncture Needling

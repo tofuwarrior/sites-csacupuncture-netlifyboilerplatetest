@@ -1,10 +1,9 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Acupuncture for Female Fertility
+title: Acupuncture for Women's Fertility
 permalink: /fertility/female-fertility.html
 ---
-## Acupuncture for Women's Fertility
  Many women and men experience fertility issues and although the causes are not always fully understood, issues such as waiting longer to have a child, increased environmental toxins, modern diets and stress or pressures from modern lifestyles can all be significant factors as well as any indvidual issues. Difficulties conceiving or carrying a pregnancy can be immensely distressing but, sadly, are also common so please remember you are not alone. 
 Acupuncture may be able to help you, just as it has helped many thousands of women before you. Please feel free to get in touch to talk about your situation. It is very important to me that you are able to freely explore whether Acupuncture feels right for you so there is no cost or obligation.
 

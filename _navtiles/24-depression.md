@@ -1,7 +1,7 @@
 ---
 title: Relief of Depression
 image: /images/uploads/emotional-wellbeing-551x297.jpg
-href: /depression.html
+href: /emotional-wellbeing/depression.html
 customtags:
   - emotional
   - tiles-what-can-acupuncture-treat

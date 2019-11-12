@@ -5,7 +5,6 @@ title: Biography
 permalink: /about-me/biography.html
 ---
 
-## Biography
 My name is Paul Burdon, I’m 45.  I am an Acupuncturist and I love being an Acupuncturist because of what it can do for people. I can’t imagine more rewarding work than leaving people feeling healthy and getting more from what life has to offer. I provide individualised, patient-centred Acupuncture treatments that are focused on addressing what matters to you. 
 
 > In both my professional and personal life, I believe in nourishing people from the inside out and forming long lasting relationships based on trust, integrity and commitment.

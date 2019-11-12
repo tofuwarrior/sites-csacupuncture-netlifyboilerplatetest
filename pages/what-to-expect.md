@@ -4,7 +4,6 @@ sidebar_align: right
 title: What to Expect
 permalink: /what-to-expect.html
 ---
-## What to Expect
 Acupuncture is an amazing and gentle form of medicine so the first thingts you or the child you care for should expect is to
   * feel listened to
   * be taken seriously

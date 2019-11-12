@@ -4,7 +4,6 @@ sidebar_align: right
 title: Leaving A Review
 permalink: /leaving-a-review
 ---
-## Leaving A Review
   Thank-you so much for considering writing a review of your experience of Acupuncture for me, I really appreciate it very much, it only takes a few minutes.
   For many people, taking the first step of trying Acupuncture can be a bit of a leap of faith and reading someone else’s honest experience helps give more confidence that ‘sticking a few needles in someone’ really can  help a lot of things; it helps them take that first step to getting in touch to find out if it might help them and for some people that can be life changing.
 

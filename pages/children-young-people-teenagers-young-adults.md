@@ -3,10 +3,8 @@ layout: sidebar
 sidebar_align: right
 title: Teenagers & Young Adults
 permalink: /children-young-people/teenagers-young-adults.html
-
-
+image: /images/uploads/teenagers-by-wall-551x297.jpg
 ---
-## Teenagers & young Adults
 Our teenage years are characterised by rapid and profound changes in our bodies but also in the structure and activity in the brain. What we experience in our teenage years shapes the people we grow to be but unfortunately it is very common for teenagers to experience emotional or physical issues as they adapt to these fundamental changes.
 
 In the modern world the challenges of the teenage years are more intense. Increased electronic stimulation and associated lack of rest, excessive social and academic expectations and other lifestyle issues such as, lack of sleep and the poor quality of much food all make it harder for teenagers to thrive.

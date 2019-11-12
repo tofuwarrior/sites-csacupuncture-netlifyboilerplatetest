@@ -1,18 +1,17 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Training & Qualifications
-permalink: /about-me/training-and-qualifications.html
+title: Training & Experience
+permalink: /about-me/training-and-experience.html
 ---
 
-## Training & Experience
-###Acupuncture
+### Acupuncture Training
 
 I trained at one of Europe’s most respected schools of Acupuncture, the College of Integrated Chinese Medicine (CICM) in Reading where  I was  mentored by some of the most respected and experienced Acupuncturists in the UK. You can find out more about this excellent college [here](https://www.acupuncturecollege.org.uk/).
 
 I have an integrated training in two of the main schools of  Acupuncture treatment, Five Element and Traditional Chinese Medicine (TCM), these different approaches have differing strengths. Having an integrated training allows me to combine the best of both approaches to achieve the excellent and wide ranging improvements in well-being for which proper Traditional Chinese Acupuncture is known.
 
-My Academic qualifications are:
+### Academic Qualifications:
   *BSc (Hons) in Acupuncture
 
 * LicAc (Licentiate in Acupuncture)

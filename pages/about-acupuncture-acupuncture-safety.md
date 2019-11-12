@@ -1,11 +1,10 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: What Is Acupuncture?
+title: Acupuncture Safety
 permalink: /about-acupuncture/acupuncture-safety.html
+image: /images/uploads/child-on-beach-with-spade551x297.jpg
 ---
-
-## Acupuncture Safety
 
 British Medical Journal research has identified Acupuncture as extremely safe, it is  one of the safest medical treatments you can have.
 
