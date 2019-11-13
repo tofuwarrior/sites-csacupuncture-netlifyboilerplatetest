@@ -214,9 +214,7 @@
 		}
 
 		@include breakpoint('<=small') {
-			/*height: 3em;*/
 			height: 7em;
-			/*line-height: 3em;*/
 			line-height: 7em;
 
 			h1 {
@@ -279,7 +277,11 @@
 		}
                 
                 //additional 
-                //to add font awesome right arrow to submenus
+               
+                a.submenu{
+                    font-weight: bold;
+                }
+                 //to add font awesome right arrow to submenus
                 a.submenu:after {
                   content: '\f105';
                     font-family: FontAwesome;

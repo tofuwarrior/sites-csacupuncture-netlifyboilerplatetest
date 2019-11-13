@@ -3,6 +3,7 @@ layout: sidebar-gateway-what-can-treat
 sidebar_align: right
 title: What Can Acupuncture Help?
 permalink: /about-acupuncture/what-can-acupuncture-help.html
+image: /images/uploads/man-relaxing-office-chair551x297.jpg
 tilestag:  tiles-what-can-acupuncture-treat
 intro_paragraph: |
   Traditional Acupuncture is a complete system of diagnosis and treatment and as such is used to treat a very wide range of health conditions, too many to list. It is used to treat both humans but vets also use it to treat animals. 
