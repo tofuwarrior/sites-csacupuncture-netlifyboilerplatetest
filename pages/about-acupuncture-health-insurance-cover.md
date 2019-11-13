@@ -3,7 +3,9 @@ layout: sidebar
 sidebar_align: right
 title: Which Health Insurers Cover Acupuncture?
 permalink: /about-acupuncture/health-insurance-cover.html
+image: /images/uploads/bridge-missing-plank551x297.jpg
 ---
+This list is a work in progress because policies change and I cannot keep up with all the changes so it is not a comprehensive list.  If your insurer is not listed then please contact them. Some insurers or health plans require you to use an Acupuncturist that is a member of the British Acupuncture Council, I am. If you contact your scheme and find you are covered please let me know and I can add the details to this list to help others in the future.
 
 <table class="table table-striped" border="0">
 <tbody>

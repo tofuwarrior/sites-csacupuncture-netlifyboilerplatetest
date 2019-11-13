@@ -283,7 +283,7 @@
                 a.submenu:after {
                   content: '\f105';
                     font-family: FontAwesome;
-                    font-weight: normal;
+                    font-weight: bold;
                     font-style: normal;
                     margin:0px 0px 0px 10px;
                     text-decoration:none;
@@ -293,7 +293,7 @@
 	}
         
          // additional 
-         // to make anchored links jump content to display below the header not under it.
+         // to make anchored links jump content to display below the header bar not be hidden under it.
                 :target::before {
                     content: "";
                     display: block;
