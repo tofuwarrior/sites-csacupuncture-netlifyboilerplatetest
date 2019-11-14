@@ -343,7 +343,7 @@
 
 		// Navigation Panel.
 			$(
-				'<div id="navPanel">' +
+				'<div id="navPanel" class="navPanel">' +
 					'<nav>' +
 						$('#nav').navList() +
 					'</nav>' +

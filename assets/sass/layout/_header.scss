@@ -303,3 +303,21 @@
                     margin: -8em 0 0; /* negative fixed header height */
                   }
                 //end
+                
+                 .navPanel {
+             //additional for resposive menu
+               
+                a.submenu{
+                    font-weight: bold;
+                }
+                 //to add font awesome right arrow to submenus
+                a.submenu:after {
+                  content: '\f107';
+                    font-family: FontAwesome;
+                    font-weight: bold;
+                    font-style: normal;
+                    margin:0px 0px 0px 10px;
+                    text-decoration:none;
+                }
+            
+        }
