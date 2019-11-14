@@ -22,30 +22,17 @@ Each time I see you, we review how you have been since the last appointment, loo
 ### Emotional Support
   Struggling to conceive, especially when going through assisted reproduction treatment or when pregnancies have been lost, can be very distressing. Providing you with empathy, understanding and a total, authentic, acceptance of your feelings, is central to how I support you as my patient. The desire to become a parent is one of the deepest human desires; I recognise and honour this with the deepest commitment to supporting you in every way I can.
 
+
 ### Assisted Reproduction (IVF, IUI, ICSI etc)
 **Acupuncture frequently resolves fertility issues without additional medical treatment** but not always.  If you are considering or undergoing assisted reproduction therapy (IVF, IUI, ICSI etc), it has still has much to offer to increase the chances of success and also to help you cope with, what can be unwelcome physical or emotional side-effects of this kind of medical treatment.
+  There are a number of options for Acupuncture when undergoing Assisted Reproductive Therapy, which you choose depends to some degree on the level to which you want assistance.
+ Acupuncture is best received for a few months before starting the ART, this helps and then during treatment.
 
  **You can find more information about Acupuncture Assisted Reproduction Here:** [Read More](/fertility/assisted-reproduction.html){: .button .small}
-
-
-
-
-#### Without Assisted Reproduction (IVF, IUI, ICSI etc)
-
-[Find out more.](/fertility/female-fertility.html){:.button .small}
-
-#### Assisted Reproduction (IVF, IUI, ICSI etc) Support
-
-There are a number of options for Acupuncture when undergoing Assisted Reproductive Therapy, which you choose depends to some degree on the level to which you want assistance.
- Acupuncture is best received for a few months before starting the ART, this helps  and then during treatment.
-
-Regular acupuncture is recommended  until you are 12 weeks pregnant.  As well as increasing the chances of pregnancy, treatment is also designed to support you emotionally at this demanding time.
-
-[Read more.](/fertility/assisted-reproduction.html){:.button .small}
 
 
 ### Support In Pregnancy
 
 Unfortunately, pregnancy often does always not involve, ‘glowing’. Difficulties are common as your body undergoes such a significant change. Acupuncture is an exceptionally safe form of medicine both for you and your baby and helps to address many common issues in pregnancy. 
 
-[Read more.](/fertility/pregnancy-birth.html){:.button .small}
+[Read more.](/fertility/pregnancy-birth.html){: .button .small}
