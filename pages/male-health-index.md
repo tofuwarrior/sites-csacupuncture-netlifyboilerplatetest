@@ -23,7 +23,7 @@ Prostate cancer affects about one in six men. It can respond very well to treatm
 
 ### Erectile Dysfunction (ED)
 
-ED is the inability to maintain an erection suitable for sexual intercourse at least a quarter of the. This is a very common situation that happens to most men at sometime , but ongoing problems could indicate a more serious issue.  ED can be caused by health conditions such as atherosclerosis, heart disease, clogged blood vessels  or diabetes.  Other causes include medications, stress, depression and anxiety.   Acupuncture can be helpful in boosting and supporting sexual stamina and in addressing issues like stress and emotional states that get in the way of sexual activity.
+Medically, ED is diagnosed as the inability to maintain an erection suitable for sexual intercourse **at least a quarter of attempts**.  This is a very common situation that happens to most men at sometime , but ongoing problems could indicate a more serious issue.  ED can be caused by health conditions such as atherosclerosis, heart disease, clogged blood vessels  or diabetes.  Other causes include medications, stress, depression and anxiety.   Acupuncture can be helpful in boosting and supporting sexual stamina and in addressing issues like stress and emotional states that get in the way of sexual activity.
 
 ### Fertility ISsues
 

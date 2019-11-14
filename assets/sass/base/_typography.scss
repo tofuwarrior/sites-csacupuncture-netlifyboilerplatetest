@@ -245,4 +245,8 @@
 
 	@include color-typography;
         
-       
+       @include breakpoint('<=xsmall') {
+			.hide-xs {
+				display:none;
+			}
+		}
