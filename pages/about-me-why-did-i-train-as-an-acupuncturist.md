@@ -16,4 +16,4 @@ I tried it mainly out of curiosity to see if it would do anything for me and eve
 
 Experiencing this as a patient was inspiring and so I decided to commit to the demanding 4 year training to actually become an Acupuncturist. I trained at one of Europe’s most respected college’s, the College for Integrated Chinese Medicine in reading, so the course was demanding but the 4 years of hard study and clinical training was also inspiring. The greatest joy is seeing Acupuncture set people free from the limitations of illness, so they can live more of the life they wish to live. It is deeply satisfying to see.
 
-> The longer I practise, the more Acupuncture amazes me with what it can do and so my passion for what it can do for both children and adults increases. It is a really remarkable form of medicine.{: .emph }
+> The longer I practise, the more Acupuncture amazes me with what it can do and so my passion for what it can do for both children and adults increases. It is a really remarkable form of medicine{: .emph }
