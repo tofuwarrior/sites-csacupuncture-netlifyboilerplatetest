@@ -2,6 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: Acupuncture for Women's Fertility
+image: /images/uploads/women-pregnancy-test-551x297.jpg
 permalink: /fertility/female-fertility.html
 ---
 

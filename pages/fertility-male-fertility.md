@@ -2,6 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: Acupuncture for Male Fertility
+image: /images/uploads/young-man-facing-camera-551x297.jpg
 permalink: /fertility/male-fertility.html
 ---
 
