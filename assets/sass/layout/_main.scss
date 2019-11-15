@@ -7,7 +7,7 @@
 /* Main */
 
 	#main {
-		@include padding(7em, 0);
+		@include padding(3em, 0);
 
 		> .inner {
 			> header.major:first-child {
