@@ -2,6 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: Acupuncture for Men’s Health
+image: /images/uploads/man-fitting-laminate551x297.jpg
 permalink: /male-health/index.html
 ---
 

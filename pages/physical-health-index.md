@@ -2,9 +2,9 @@
 layout: sidebar
 sidebar_align: right
 title: Physical Health and Pain
+image: /images/uploads/man-running-in-water-551x297.jpg
 permalink: /physical-health/index.html
 ---
-
 ## Pain
 {:#pain}
 Acupuncture is excellent at reducing or removing the sensation of pain, so, while it can't help everyone, it is very likely that Acupuncture can help you. Having had many patients suffering with different kinds of chronic and acute pain over the years I have come to understand how emotionally tiring and difficult it can be dealing with ongoing pain; many of my patients initially describe feeling trapped, depressed or anxious aswell as exhausted. Traditional Acupuncture supports us emotionally taking the pressure pout of our feelings and improving our energy helping us feel stringer and more able to deal with our situation.

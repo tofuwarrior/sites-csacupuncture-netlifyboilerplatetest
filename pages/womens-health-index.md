@@ -2,6 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: Acupuncture for Womens Health
+image: /images/uploads/womens-health-551x297.jpg
 permalink: /womens-health/index.html
 ---
 
