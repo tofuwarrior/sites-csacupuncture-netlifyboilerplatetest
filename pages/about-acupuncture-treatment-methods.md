@@ -2,6 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: Acupuncture Treatment Methods
+image: /images/uploads/moxa-rolls-551x297.jpg
 permalink: /about-acupuncture/acupuncture-treatment-methods.html
 ---
 

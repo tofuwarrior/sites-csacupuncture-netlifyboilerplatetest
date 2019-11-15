@@ -2,6 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: How Does Acupuncture Work?
+image: /images/uploads/chinese-parchment-551x297.jpg
 permalink: /about-acupuncture/how-does-acupuncture-work.html
 ---
 

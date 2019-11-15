@@ -2,6 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: What Is Acupuncture?
+image: /images/uploads/acupuncture-model-back551x297.jpg
 permalink: /about-acupuncture/what-is-acupuncture.html
 ---
 Traditional Acupuncture is a form of medicine that has been developed and refined for over 2000 years, it originated in China and the East but, its excellent safety and effectiveness have meant that, in more recent years it has spread to be used all over the world. In China and many other countries it is used in hospitals in conjunction with conventional medicine for the front-line treatment of acute and chronic injuries and illness. In the UK proper Traditional (Chinese) Acupuncture is only occasionally available through the NHS and is more usually accessed by visiting a qualified independent practitioner. 

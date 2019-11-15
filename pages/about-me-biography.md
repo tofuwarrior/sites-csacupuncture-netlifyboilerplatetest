@@ -2,6 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: Biography
+image: /images/uploads/open-book551x297.jpg
 permalink: /about-me/biography.html
 ---
 
@@ -18,7 +19,7 @@ My main passion outside of my family and Acupuncture is Tai Chi. Tai Chi is a fo
 
 ### Why did I train as an Acupuncturist?
 
-[Click here to read a brief explanation of how I was inspired to train as an Acupuncturist.](/about-me/why-did-i-train-as-an-acupuncturist.html)
+[You can read a brief explanation of how I was inspired to train as an Acupuncturist here.](/about-me/why-did-i-train-as-an-acupuncturist.html)
 
 
 ### Work and Education

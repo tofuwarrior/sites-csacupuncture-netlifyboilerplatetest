@@ -1,6 +1,6 @@
 ---
 title: Medical Acupuncture
-image: /images/uploads/taking-pulse551x297.jpg
+image: /images/uploads/antique-phone551x297.jpg
 href: /about-acupuncture/medical-acupuncture.html
 customtags:
   - tiles-aboutacupuncture

@@ -2,6 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: Professional Standards
+image: /images/uploads/hands-with-book-and-pen-551x297.jpg
 permalink: /about-me/professional-standards.html
 ---
 

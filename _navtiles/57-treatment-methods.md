@@ -8,4 +8,4 @@ customtags:
   - tiles-aboutacupuncture
 ---
 
-In addition to Acupuncture I am also trained in a variety of other Chinese medical treatment methods.
+In addition to Acupuncture I am also trained in a variety of other Chinese medical treatment methods such as Tui Na, Guasha & Moxibustion, which can be useful ways to enhance your treatment.

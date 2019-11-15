@@ -2,6 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: Training & Experience
+image: /images/uploads/hand-up-in-class551x297.jpg
 permalink: /about-me/training-and-experience.html
 ---
 

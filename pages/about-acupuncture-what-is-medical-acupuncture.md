@@ -2,6 +2,7 @@
 layout: sidebar
 sidebar_align: right
 title: What Is Medical Acupuncture?
+image: /images/uploads/antique-phone551x297.jpg
 permalink: /about-acupuncture/what-is-medical-acupuncture.html
 ---
 Medical Acupuncture is a more limited form of Acupuncture that is often used to help muscle and joint problems. It is different to Traditional Acupuncture which is the form of Acupuncture which has been practised in China for over 2000 years.
