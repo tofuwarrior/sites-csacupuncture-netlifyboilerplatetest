@@ -4,24 +4,22 @@ sidebar_align: right
 title: What to Expect
 permalink: /what-to-expect.html
 ---
-Acupuncture is an amazing and gentle form of medicine so the first thingts you or the child you care for should expect is to
+Acupuncture is an amazing form of medicine, gentle and minimal but wide ranging and effective. It is inspiring what it can do for us when we are unwell and I am passionate about helping people so the first things you or the child you care will experience is that you will:
   * feel listened to
   * be taken seriously
   * feel comfortable
-  * be cared for with passion and commitment and 
-  * to get well.
+  * be cared for professionally and with commitment
 
-> I experienced personally how Traditional Acupuncture can improve our wellbeing. The experience inspired me to dedicate myself to using it to help others, so your wellbeing, and what is important to you, are always my top priorities.
+> Your wellbeing, and what is important to you are always my top priorities.
 {: .emph}
-
-
 
 ### About The Initial Consultation
 The initial consultation is where we discuss your situation so you can tell me everything that is important to you and so I can gather a comprehensive understanding of your health and wellbeing and what you want help with. This session also includes treatment.
 
-In this comprehensive conversation we talk about all aspects of your health and wellbeing. It is by getting this comprehensive overview that an Acupuncturist is able to see patterns in your health that are causing your problems. Diagnosis in Traditional Acupuncture and other kinds of Chinese Medicine works by taking an overview of all of your wellbeing and spotting patterns in this that guide us to the best treatment for a specific issue. By understanding where there are areas in your body's functioning that are not working as well they could, we can understand what the root of your problem is and correct it.  **When this happens, the source of your issue has gone and so it stops bothering you.**
+In this comprehensive conversation we talk about all aspects of your health and wellbeing. By getting a comprehensive understanding of your situation that I am able to see patterns in your health that are causing your problems. Identifying these patterns is what guides me to an understanding of what the root of your problem is. By Correcting this root cause ** we resolve the cause of your issue and it is resolved**
 
-You **remain either clothed or wearing a treatment gown** for both the initial consultation and treatment so your privacy is protected at all times. Depending on what you need help with, and as long as you are happy for me to do so, I may ask to check for tenderness by gently pressing Acupuncture points in different places on your body such as your belly, your back or on your arms and legs, this is because feelings of tenderness in specific areas can give information about the nature a problem. 
+You **remain either clothed or wearing a treatment gown** for both the initial consultation and treatment so your privacy is protected at all times.
+Depending on what you need help with, and as long as you are happy for me to do so, I may ask to check for tenderness by gently pressing Acupuncture points in different places on your body such as your belly, your back or on your arms and legs, this is because feelings of tenderness in specific areas can give information about the nature a problem. If for personal, or cultural, reasons you do not wish to be treated in certain areas, just let me know; it is usually still possible to treat you effectively but also in a way that respects your individual needs.
 
 **Your treatment and your comfort are always my first priorities so, nothing happens without your consent. **
 
@@ -32,9 +30,8 @@ You can [find descriptions of the treatment techniques I am trained in here](/ab
 
 Treatment happens with you sitting or lying on a comfortable treatment couch. The position you are in depends on what you are comfortable with and what Acupuncture points I need to use to treat you. There are Acupuncture points all over the body, all with different uses, but for any condition there are multiple points that could be used so if there is a reason why you can’t sit or lie in a particular position or you don’t wish to be treated on a particular part of your body then it is usually simple to make changes.  The treatment couch can be raised and lowered so if you have mobility problems this can help.
 
-If your clothes are too tight or don't allow for me to treat you where you need treatment then I leave the room  so you can change into treatment gowns that protect your privacy.
+If your clothes are too tight or don't allow for me to treat you where you need treatment then I leave the room  so you can change into treatment gowns that ensure your privacy.
 
-Your treatment and your comfort are always my first priorities so at all times you are in control of whether you want a particular treatment, nothing happens without your consent. 
-
+**Your treatment and your comfort are always my first priorities so at all times you are in control of whether you want a particular treatment, nothing happens without your consent. **
 
 You can [find answers to many other questions on the common questions page here](/common-questions.html)

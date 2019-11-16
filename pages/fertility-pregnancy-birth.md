@@ -17,8 +17,14 @@ permalink: /fertility/pregnancy-birth.html
 * nausea & morning sickness
 * preparation for labour
 * emotional distress
-* pre-birth acupuncture
 * digestive problems
+
+#### Birth Preparation
+** Acupuncture is also commonly used to support preparation for birth:**
+* turning breech presentation babies
+* helping encourage ripening of the cervix prior to birth
+* Natural induction treatment to encourage the on set of labor if you are overdue.
+
 
 ### What Treatment Involves
   I combine the ancient knowledge of Acupuncture with modern scientific insights to provide individualised treatment tailored to you, this involves acupuncture treatment but also often involves advice about adjustments that can be made in daily life to help support you to be at your best. We work together with any additional information you may have from medical tests to understand the problem and resolve it naturally.
