@@ -3,7 +3,7 @@ layout: sidebar
 sidebar_align: right
 title: Insurance
 image: /images/uploads/paper-family-in-hands551x297.jpg
-permalink: /about-me/biography.html
+permalink: /about-me/insurance.html
 ---
 I am a full member of the British Acupuncture Council(BAcC)
 
