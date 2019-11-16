@@ -6,11 +6,17 @@ image: /images/uploads/women-pregnancy-test-551x297.jpg
 permalink: /fertility/female-fertility.html
 ---
 
- Many women and men experience fertility issues and although the causes are not always fully understood, issues such as waiting longer to have a child, increased environmental toxins, modern diets and stress or pressures from modern lifestyles can all be significant factors as well as any indvidual issues. Difficulties conceiving or carrying a pregnancy can be immensely distressing but, sadly, are also common so please remember you are not alone. 
-Acupuncture may be able to help you, just as it has helped many thousands of women before you. Please [get in touch to talk](#contact-trigger){: .contact-trigger} about your situation. It is very important to me that you are able to freely explore whether Acupuncture feels right for you so there is no cost or obligation.
+  Difficulties conceiving or carrying a pregnancy can be immensely distressing but, sadly, are also common; many women and men experience fertility issues.  As well as issues specific to the way your particular body works, factors such as waiting longer to have a child, increased environmental toxins, modern diets and stress or pressures from modern lifestyles can all be significant factors. 
+
+Acupuncture may be able to help you, just as it has helped many thousands of women before you. Please [get in touch to talk](#contact-trigger){: .contact-trigger} about your situation. Particularly with something as important and meaningful as seeking to become a parent, it is very important to me that you are able to freely explore whether Acupuncture feels right for you so there is no cost or obligation.
 
 ### What Treatment Has to Offer
+  Acupuncture has a unique understanding of fertility and has a huge amount to offer individuals and couples who are struggling to conceive or carry a pregnancy. It is an understanding that includes all aspects of your health and wellbeing and sees you as a whole person, not just a collection of symptoms or test measurements. This whole understanding often makes the difference between a successful pregnancy and not.
+
+I offer a specialised and personal approach to supporting you in your desire to become a parent. You will always be treated by me and every time I see you treatment is adjusted to your specific needs. 
+
   Acupuncture has been shown to increase the rates of pregnancy in couples trying for a baby.  Sometimes it can be helpful for both partners in a couple to receive Acupuncture as Acupuncture can positively affect both male and female fertility. 
+
   If you have been struggling to get pregnant, it can sometimes be because something relatively minor is happening in your system and for some, a simple course of treatment, possibly with some lifestyle changes, is enough to let pregnancy happen. Over the years I have seen many patients where they have become pregnant after a course of Acupuncture. While these 'quick wins' are common enough, sometimes it takes a little more time and nurturing of your body to bring you to your best. For some, even though we see positive changes in fertility indicators we opt to utilise the positive effects Acupuncture has with Assisted Reproduction Therapy (IVF, IUI etc). There is no one way that is right, these are personal decisions that I can support you to make.
 
 ### My Fertility Experience & Training
@@ -22,7 +28,7 @@ Acupuncture may be able to help you, just as it has helped many thousands of wom
 Each time I see you, we review how you have been since the last appointment, look for signs of improvement and decide whether our current approach to treatment is still the best for you or whether we should make any adjustments. Each treatment is individual and tailored to how you are on the day I see you.
 
 ### Emotional Support
-  Struggling to conceive, especially when going through assisted reproduction treatment or when pregnancies have been lost, can be very distressing. Providing you with empathy, understanding and a total, authentic, acceptance of your feelings, is central to how I support you as my patient. The desire to become a parent is one of the deepest human desires; I recognise and honour this with the deepest commitment to supporting you in every way I can.
+  Struggling to conceive, especially when going through assisted reproduction treatment or when pregnancies have been lost, can be very emotionally demanding. Providing you with empathy, understanding and a total, authentic, acceptance of your feelings, is central to how I support you as my patient. The desire to become a parent is one of the deepest human aspirations; I recognise and honour this aspiration with a deep and sincere commitment to supporting you in every way I can.
 
 
 ### Assisted Reproduction (IVF, IUI, ICSI etc)
