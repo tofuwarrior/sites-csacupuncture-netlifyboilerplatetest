@@ -9,7 +9,7 @@
         {% for testimonial in site.testimonials %}
             <article data-position="top" class="testimonial" data-featherlight="{{ testimonial.image }}">
                 {% capture thumbsize %}{{ testimonial.thumb | size }}{% endcapture %}
-                    <img src="{% if thumbsize == "0" %}{{testimonial.image}}{% else %}{{testimonial.thumb}}{% endif %}" title ="{{ testimonial.excerpt | strip_html}}" >
+                    <img src="{% if thumbsize == "0" %}{{testimonial.image}}{% else %}{{testimonial.thumb}}{% endif %}?nf_resize=fit&w=450" title ="{{ testimonial.excerpt | strip_html}}" >
             </article>
         {% comment %}
          {% if testimonial.showexcerpt %}
