@@ -26,7 +26,7 @@ Depending on what you need help with, and as long as you are happy for me to do 
 ### About Treatment
 
 Treatment usually involves the gentle insertion of Acupuncture needles but can also involve other Chinese Medical treatment techniques. If I think a different treatment method will be helpful then I discuss this with you first to check you are happy about it, nothing happens in the treatment room without your explicit consent so if there is a reason you don't feel comfortable with a particular kind of treatment, then you can let me know and we can discuss alternative options.
-You can [find descriptions of the treatment techniques I am trained in here](/about-acupuncture/treatment-methods.html)
+You can [find descriptions of the treatment techniques I am trained in here](/about-acupuncture/acupuncture-treatment-methods.html)
 
 Treatment happens with you sitting or lying on a comfortable treatment couch. The position you are in depends on what you are comfortable with and what Acupuncture points I need to use to treat you. There are Acupuncture points all over the body, all with different uses, but for any condition there are multiple points that could be used so if there is a reason why you can’t sit or lie in a particular position or you don’t wish to be treated on a particular part of your body then it is usually simple to make changes.  The treatment couch can be raised and lowered so if you have mobility problems this can help.
 
