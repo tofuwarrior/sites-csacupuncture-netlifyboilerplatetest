@@ -1,7 +1,7 @@
 ---
 title: Medical Acupuncture
 image: /images/uploads/antique-phone551x297.jpg
-href: /about-acupuncture/medical-acupuncture.html
+href: /about-acupuncture/what-is-medical-acupuncture.html
 customtags:
   - tiles-aboutacupuncture
 ---

@@ -37,7 +37,7 @@
 			<article {% unless size == "" %}class="{{slide.addclass}}"{%endunless%}>
 				<img src="{{ site.baseurl }}{{ slide.image }}" alt="{{ slide.imagealt }}" />
 				<div class="inner {% if slide.darkback %}dark{%endif%}">
-                                    <h2><a href="{{ slide.url }}">{{ slide.title }}</a></h2>
+                                    <h2>{{ slide.title }}</h2>
                                    
                                    <p>{{ slide.content | remove: "<p>" | remove: "</p>" }}</p>
                                    
