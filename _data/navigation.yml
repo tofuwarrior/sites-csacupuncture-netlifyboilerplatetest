@@ -3,7 +3,10 @@
 - text: Home
   url: /
 - text: About
-  url: /about
+  url: /about/
+  subitems:
+      - test: Test
+        url: /about/test/
 - text: Contact
   url: /contact
 - text: Blog

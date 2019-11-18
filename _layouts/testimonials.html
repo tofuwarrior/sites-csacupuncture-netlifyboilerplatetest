@@ -36,17 +36,17 @@ layout: default
                 </div>
 	</header>
 
-<h2> Reviews On Google </h2>
+<h3> Reviews On Google </h3>
 <p>View live reviews on google by clicking the button below.<br/> (It can take a few seconds once the page has loaded for the reviews to load).</p>
  <a class="button" href="https://goo.gl/QK3EJk" target="_blank">View reviews on google </a>.
 <hr/> 
-<h2> Messages I have Received <small>(click images to enlarge)</small></h2>
-<p>These are a few of the message about treatment that I have received directly from patients.</p>
+<h3> Messages I have Received <small>(click images to enlarge)</small></h3>
+<p>These are a selection of the message about treatment that I have received directly from patients.</p>
 <!-- gatewaytiles -->
 	<section id="testimonials-gallery" class="">
             <div class="box alt">
                 <div class="row gtr-uniform gtr-50">
-                {% for testimonial in site.testimonials %}
+        {% for testimonial in site.testimonials %}
                     <div class="col-4 testimonial" data-featherlight="{{ testimonial.image }}">
                  {% if testimonial.showexcerpt %}
                     <h3>{{ testimonial.excerpt}}<small>{{ testimonial.age | remove: "<p>" | remove: "</p>" }} year old, {{ testimonial.gender | remove: "<p>" | remove: "</p>" }} </small></h3>

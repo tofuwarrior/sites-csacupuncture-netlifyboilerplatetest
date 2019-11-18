@@ -1,6 +1,6 @@
 ---
 title: Wellness in Later Life
-image: /images/uploads/shutterstock_107645981.jpg
+image: /images/uploads/senior-couple551x297.jpg
 href: /wellness-later-life/index.html
 customtags:
   - tiles-home

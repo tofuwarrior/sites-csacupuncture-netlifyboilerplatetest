@@ -24,8 +24,8 @@ I am a member of the British Acupuncture Council, the largest regulatory body fo
 
 
 ### Specialist Paediatric Training
-1. The treatment of children and young people is a particular passion of mine. It is distinct from the treatment of adults and requires substantial additional training.  I have completed my additional training in the treatment of babies and children with Julian Scott who is one of the worlds foremost experts in Paediatric Acupuncture.
-2.I completed additional training in the treatment of Teenagers and young people with Rebecca Avern who is an international author on the subject and the Paediatric course director at the College of Integrated Chinese Medicine.
+  1. The treatment of children and young people is a particular passion of mine. It is distinct from the treatment of adults and requires substantial additional training.  I have completed my additional training in the treatment of babies and children with Julian Scott who is one of the worlds foremost experts in Paediatric Acupuncture.
+  2. I completed additional training in the treatment of Teenagers and young people with Rebecca Avern who is an international author on the subject and the Paediatric course director at the College of Integrated Chinese Medicine.
 
 ### Additional Fertility Training
 As well as extensive personal study and my clinical experience I have completed specialist fertility training with Jane Lyttleton who is one of the worlds foremost authorities on Acupuncture for fertility.
@@ -34,9 +34,12 @@ As well as extensive personal study and my clinical experience I have completed 
 I have a current qualified clinic first aid qualification.
 
 ## Experience 
-Having qualified in 2012 I have been treating people with Acupuncture continually since then.
-I am a specialist Acupuncturist so I apply the full depth of Acupuncture knowledge, I do use simplified Acupuncture as an add on to another therapy.  
+Having qualified in 2012 I have been treating people with Acupuncture continually since then and have treated hundreds of people of all ages ranging from 6 months to 92.
 
-I run a general practise treating a full range of conditions but have specialist training and experience in:
-1. the treatment of children and the 
-2. treatment of male and female fertility
+I am a full time, specialist Acupuncturist so I apply the full depth of Acupuncture knowledge, I do not use a simplified form Acupuncture as an add on to another therapy.  
+
+While I run a busy general practise treating a full range of both physical and emotional conditions I also have specialist training and experience in:
+1. the treatment of babies, children & teenagers and the 
+2. treatment of fertility related issues
+
+**These are both areas which require specialist knowledge above and beyond that in an Acupuncture degree** 

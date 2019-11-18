@@ -11,7 +11,8 @@ In the modern world the challenges of the teenage years are more intense. Increa
 
 I have a particular passion for treating teenagers and children because treatment early in life sets the scene for good health later on stopping small imbalances early on leading to chronic problems in adult life. I have completed specialist training with Rebecca Avern specific to helping Teenagers. Rebecca is an internationally recognised author and educator in this field. I am also a contributor to specialist Acupuncture practitioner groups focused on the treatment of children.
  
-> Acupuncture gently brings balance to our systems and consequently our emotions and physical symptoms are relieved.{:.emph} 
+> Acupuncture gently brings balance to our systems and consequently our emotions and physical symptoms are relieved.
+{: .emph} 
 
 Acupuncture influences many bodily systems but issues teenagers and young people commonly come to treatment with are listed below. If the issue you, or the young person you care for, is having difficulty with is not in this brief list [please get in touch](#contact-trigger){: .contact-trigger} and we can explore whether Acupuncture might be able to help.  
 <ul>

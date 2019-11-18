@@ -5,4 +5,4 @@ href: /about-me/why-did-i-train-as-an-acupuncturist.html
 customtags:
   - tiles-about-me
 ---
-If you are curious, here you can find a concise explanation of how I was inspired to train as an authentic Traditional Acupuncturist.
+Experiencing the benefots of authentic Traditional Acupuncture treatment inspired me so much that I ditched a successful career as a freelance internet consultant to retrain. Here is a little about how and why it inspired me.
