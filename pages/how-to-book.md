@@ -31,3 +31,6 @@ If you can't make any of the clinic slots I have available, please get in contac
 {: .prices-table}
 
 {% include consultation-types.html %}
+
+<iframe src="https://app.acuityscheduling.com/schedule.php?owner=14899767" width="100%" height="800" frameBorder="0"></iframe><script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
+
