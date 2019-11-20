@@ -1,7 +1,7 @@
 ---
 title: Mens Health
 image: /images/uploads/man-fitting-laminate551x297.jpg
-href: /male-health/index.html
+href: /male-health/
 customtags:
   - tiles-gender-health
 ---

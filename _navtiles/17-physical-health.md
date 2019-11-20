@@ -1,7 +1,7 @@
 ---
 title: Physical Health & Pain
 image: /images/uploads/man-running-in-water-551x297.jpg
-href: /physical-health/index.html
+href: /physical-health/
 customtags:
   - tiles-home
   - tiles-general

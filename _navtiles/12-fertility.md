@@ -1,7 +1,7 @@
 ---
 title: Fertility & Pregnancy
 image: /images/uploads/fertility-551x297.jpg
-href: /fertility/index.html
+href: /fertility/
 customtags:
   - women
   - tiles-home

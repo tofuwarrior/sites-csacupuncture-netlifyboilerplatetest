@@ -1,7 +1,7 @@
 ---
 title: Gender Health Issues
 image: /images/uploads/male-female-gender-symbols-drawn-in-chalk.jpg
-href: /gender-health/index.html
+href: /gender-health/
 customtags:
   - tiles-home
   - tiles-general

@@ -1,7 +1,7 @@
 ---
 title: Wellness in Later Life
 image: /images/uploads/senior-couple551x297.jpg
-href: /wellness-later-life/index.html
+href: /wellness-later-life/
 customtags:
   - tiles-home
   - tiles-what-can-acupuncture-treat

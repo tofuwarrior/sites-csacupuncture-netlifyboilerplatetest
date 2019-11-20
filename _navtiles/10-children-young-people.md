@@ -1,7 +1,7 @@
 ---
 title: Children & Young People
 image: /images/uploads/baby-in-towel-551x297.jpg
-href: /children-young-people/index.html
+href: /children-young-people/
 customtags:
   - tiles-home
 ---

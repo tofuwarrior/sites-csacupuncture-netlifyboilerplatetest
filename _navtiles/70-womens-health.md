@@ -2,7 +2,7 @@
 
 title: Womens Health
 image: /images/uploads/womens-health-551x297.jpg
-href: /womens-health/index.html
+href: /womens-health/
 customtags:
   - tiles-gender-health  
   

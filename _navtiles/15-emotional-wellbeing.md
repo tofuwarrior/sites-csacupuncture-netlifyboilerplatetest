@@ -1,7 +1,7 @@
 ---
 title: Emotional Wellbeing
 image: /images/uploads/emotional-wellbeing-551x297.jpg
-href: /emotional-wellbeing/index.html
+href: /emotional-wellbeing/
 customtags:
   - tiles-home
   - tiles-what-can-acupuncture-treat
