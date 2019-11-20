@@ -23,8 +23,9 @@ permalink: /how-to-book.html
 
 [For more detail on these different consultation types click here.](/about-acupuncture/consultation-types.html)
 
-#### REMEMBER TO CHOOSE THE APPOINTMENT TYPE FOR THE CLINIC YOU PREFER.{:#booking-form} 
-**I WORK IN ROATH ON FRIDAYS(07.00-18.00), PONTCANNA ON TUESDAY (9-14.00) & WEDNESDAY(07.00-18.00).
+#### REMEMBER TO CHOOSE THE APPOINTMENT TYPE FOR THE CLINIC YOU PREFER.
+{:#booking-form} 
+  **I WORK IN ROATH ON FRIDAYS(07.00-18.00), PONTCANNA ON TUESDAY (9-14.00) & WEDNESDAY(07.00-18.00)**
 
 <iframe src="https://app.acuityscheduling.com/schedule.php?owner=14899767" width="100%" height="800" frameBorder="0"></iframe><script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
 
