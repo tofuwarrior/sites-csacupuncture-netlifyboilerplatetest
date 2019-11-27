@@ -29,7 +29,7 @@ These are some of the signs that your menstrual cycle is disregulated and might 
 ### Fertility
   Acupuncture has been shown to increase the rates of pregnancy in couples trying for a baby. Sometimes it can be helpful for either partners in a couple to receive treatment as Acupuncture can positively affect both male and female fertility. If you have been struggling to get pregnant, it can sometimes be because something is not quite right in your system and for some a simple course of treatment is enough to bring a pregnancy. I have had plenty of patients over the years where they have got pregnant naturally as a result of a course of Acupuncture treatment and/or making some associated lifestyle changes but, of course, that doesn't always happen  despite positive changes in fertility indicators. If you pursue assisted reproduction treatment like IVF, IUI, ICSI etc Acupuncture can support that process and is associated with increased success rates.
 
-For fuller information about fertility issues and care in pregnancy. [Find out more.](/fertility/index.html){: .button } 
+For fuller information about fertility issues and care in pregnancy. [Find out more.](/fertility/){: .button } 
 
 ### Menopause and Peri-menopause
 Since I have been in practise I have witnessed the wide variety of ways in which menopause and peri-menopause seriously affect the quality of life of some of my female patients. As well as the more commonly understood symptoms like hot flushes, changes in libido and mood disturbances, this fundamental change in the functioning of your body can cause a whole array of other problems that can feel unpredictable and out of control.  
