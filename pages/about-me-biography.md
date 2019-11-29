@@ -20,13 +20,13 @@ My main passion outside of my family and Acupuncture is Tai Chi. Tai Chi is a fo
 I also have a lot of curiosity about the world so I love learning about just about anything. This is part of what I love being an Acupuncturist; it is so interesting meeting so many different people and hearing about their lives.  As well as Acupuncture which is my main area of learning, I enjoy most sciences but particularly enjoy space science, genetics, history and psychology and, and in the little time that is left after Acupuncture and family, I listen to programmes and read about these subjects.
 
 ### Why did I train as an Acupuncturist?
-Experiencing the benefits of authentic Traditional Acupuncture inspired me so much that I ditched a successful career as an Internet consultant to devote my work to helping people with Acupuncture. I spent 4 years doing my Acupuncture Degree and then it took a year to build my Acupuncture practice.  [You can read a brief explanation of how and why I was inspired to become an Acupuncturist here.](/about-me/why-did-i-train-as-an-acupuncturist.html)
+Experiencing the benefits of authentic Traditional Acupuncture inspired me so much that I left behind a successful career as an Internet consultant to devote my work to helping people with Acupuncture. I spent 4 years doing my Acupuncture Degree and then it took a year to build my Acupuncture practice.  [You can read a brief explanation of how and why I was inspired to become an Acupuncturist here.](/about-me/why-did-i-train-as-an-acupuncturist.html)
 
 ### Work and Education
 I was born in 1974, and raised mainly in Birmingham, after achieving A-Levels in Maths, Philosophy, Chemistry, Biology and General Studies, I studied Psychology at the well respected Cardiff University Psychology department gaining a 2.1 honours degree.
 
-In my early career I worked with people with learning disabilities and mental health diagnoses, I left this to spend a period travelling in Asia and Nepal. Upon my return I worked in a variety of roles in the creative IT industry, managing a small team in one role and then going on to be self employed working mainly with charity and healthcare clients.
+In my early career I worked with people with learning disabilities and mental health diagnoses, I left this to spend a period travelling in Asia and Nepal. Upon my return I worked in a variety of roles in the creative IT industry, managing a small team in one role and then going on to be self employed working mainly with charity and health-care clients.
 
 During the last 4 years of my career in IT,  I completed a degree in Traditional and Five Element Acupuncture at one of Europe’s most respected schools of Acupuncture, the College of Integrated Chinese Medicine in Reading. Since then I have completed specialist additional training in the treatment of fertility related issues and also the treatment of babies, children and teenagers. These are areas which require specialist knowledge and training. [You can find out more about my training and experience here](/about-me/training-and-experience.html).
 
-Since this point it has been my great privilege to work as an authentic Traditional Acupuncturist.
+Since this point it has been my great privilege to work as a Traditional Acupuncturist.
