@@ -4,7 +4,7 @@ sidebar_align: right
 title: About me
 tilestag: tiles-about-me
 image: /images/uploads/profile_head_squarecropped_weboptimised.jpg
-permalink: /about-me/
+permalink: /about-me/index.html
 intro_paragraph: |-
   My name is Paul Burdon. I am a degree qualified, authentic, Traditional Acupuncturist. I provide individualised, patient-centred treatments that are focused on addressing what matters to you. In both my personal and professional life, I believe in nourishing people from the inside out and forming long lasting relationships based on trust, integrity and commitment.
   
