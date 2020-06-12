@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-metadata
+.users.yml
+nbproject
+node_modules
+
+# Local Netlify folder
+.netlify

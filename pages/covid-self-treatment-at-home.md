@@ -12,7 +12,7 @@ permalink: /self-treatment-during-lockdown.html
 
 <h2 id="self_treatment">Guided Self-Treatment during Lockdown</h2> 
 
-<p> Traditional Acupuncture is part of a much wider set of medical techniques including Acupressure, Chinese Medical Massage(Tui Na), and Tai Chi exercises (Qi Gong). In addition  dietary advice and lifestyle advice are important ways in which I help people resolve many physical and emotional difficulties.  I am trained in all these techniques and have 20 years experience of Tai Chi practise.
+<p> Traditional Acupuncture is part of a much wider set of medical techniques including Acupressure, Chinese Medical Massage(Tui Na), and Tai Chi exercises (Qi Gong). In addition, informed dietary and lifestyle advice are also valuable ways in which people can resolve many physical and emotional difficulties.  I am trained in all these techniques and have 20 years experience of Tai Chi practise so am able to guide you to use these to get better.
 
 During lockdown I have been carrying out full consultations over video chat or the phone and, where appropriate, guiding people in self-treatment using Acupressure, Chinese Medical Massage and instruction in Tai Chi movement as well as advice. The combination of these methods has successfully helped a range of physical and emotional conditions.
 It is not always appropriate, some conditions need Acupuncture and only Acupuncture will do, in these situations we have booked ahead for when the clinic is likely to open.</p>   
