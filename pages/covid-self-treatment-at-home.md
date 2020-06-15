@@ -8,7 +8,8 @@ permalink: /self-treatment-during-lockdown.html
 
 <h2>Can I Treat You Now?</h2>
  
-<p> All Acupuncture practises have to be closed until lockdown is lifted, I know this is difficult for you because you need help and I want to help you! For some situations I am able to support you to learn self-treatment methods other than Acupuncture. This has been very successful see below for how you can find out if this is an option with a free consultation.</p>
+<p> All Acupuncture practises have to be closed until lockdown is lifted, I know this is difficult for you because you need help,  and I want to help you! <br/>
+For some situations, though I am able to support you to learn self-treatment methods other than Acupuncture. This has been successful for quite a few people, check below for how you can find out if this is an option with a free consultation.</p>
 
 <h2 id="self_treatment">Guided Self-Treatment during Lockdown</h2> 
 
