@@ -6,7 +6,7 @@ permalink: /how-to-book.html
 jsarray:
   -  link: 
 ---
-{% comment %}
+
 ### You can either: 
 
 [**Book Here**](#booking-form){:.booking-trigger .button .small} to use the **simple online booking system on this page**, OR 
@@ -28,7 +28,6 @@ jsarray:
 {:#booking-form} 
 
 <iframe src="https://app.acuityscheduling.com/schedule.php?owner=14899767" width="100%" height="800" frameBorder="0"></iframe><script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
-{% endcomment %}
 
  <h2>COVID-19 SECURE PRACTISE</h2>
  <p><b>Professional Acupuncturists are currently allowed to practise.</b> I will need you to self-certify a list of COVID-19 questions the day before your appointment. You must not attend if you develop any COVID-19 symptoms or are in contact with anyone who has COVID-19 symptoms. You will needs to wear a mask during your appointmen. If you cannot wear a mask because of health reasons, please get in touch and let me know so we can make arrangements.  </p> <a href="/covid-how-i-keep-you-safe.html" class="button">Read the full covid-19 safety measures I am following here.</a>
