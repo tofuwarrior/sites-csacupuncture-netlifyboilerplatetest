@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Welcome
-title-tag: "Acupuncture in Cardiff - Experienced, Individual Care"
+title-tag: "Acupuncture in West Wales.North Pembrokeshire & Ceredigion  - Experienced, Individual Care"
 permalink: /
 section: home
 intro_paragraph: >
