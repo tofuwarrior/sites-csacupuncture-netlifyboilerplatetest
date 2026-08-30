@@ -31,3 +31,8 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Required by kramdown v2 for GitHub-Flavoured Markdown
 gem "kramdown-parser-gfm"
+
+# Explicit deps for Ruby 3.4+ (no longer default gems; required by Jekyll 3 / safe_yaml)
+gem "base64"
+gem "bigdecimal"
+gem "logger"
