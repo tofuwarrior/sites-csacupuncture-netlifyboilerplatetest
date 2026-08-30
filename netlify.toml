@@ -4,6 +4,7 @@
 
 [build.environment]
   JEKYLL_ENV = "production"
+  NODE_VERSION = "24"
 
 # REDIRECT and HEADERS examples.
 # Uncomment to use. Directives in this file will ALWAYS override any identical
