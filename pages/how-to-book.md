@@ -28,7 +28,7 @@ jsarray:
 
 ### Clinic availability
 
-Due to commitments working as Technical Manager for the British Acupuncture Council and as Chair of the World Acupuncture Awareness Day Committee for the European Traditional Chinese Medicine Association (ETCMA), I can only run clinics on **Wednesday and Thursday**.
+<!-- Due to commitments working as Technical Manager for the British Acupuncture Council and as Chair of the World Acupuncture Awareness Day Committee for the European Traditional Chinese Medicine Association (ETCMA), I can only run clinics on **Wednesday and Thursday**. -->
 
 {:#booking-form}
 

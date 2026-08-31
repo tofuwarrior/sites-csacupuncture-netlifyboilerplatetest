@@ -7,4 +7,4 @@ darkback: true
 customtags:
   - slider-home-main
 ---
-Every day, the truted tradition of Acupuncture gives thousands of people young and old, freedom from issues they feared they might be stuck with
+Every day, the trusted tradition of Acupuncture gives thousands of people young and old, freedom from issues they feared they might be stuck with
