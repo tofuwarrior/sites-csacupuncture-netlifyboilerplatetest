@@ -169,6 +169,14 @@
 			}
 		}
 
+		@include breakpoint('>large') {
+			> article {
+				p {
+					line-height: 1.55;
+				}
+			}
+		}
+
 		@include breakpoint('<=large') {
 			min-height: 35em;
 			height: 60vh;
