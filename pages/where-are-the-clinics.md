@@ -22,22 +22,31 @@ SA64 0JT
 
 
 ### Directions
+
+#### Turning off the A487
+
+When travelling along the A487 through Goodwick, look for the **old seafront helter skelter** beside the road — this marks the turn down the access road to Ivybridge.
+
+Go **down the slope** with **Ivybridge Bed & Breakfast** on your left, then follow the road around to the right. **The Ivybridge Spa**, where I practise, is the **large UPVC-fronted building on the right**.
+
+**Parking for the Spa** is directly in front of the front door of spa over the access road. It is marked by a sign on the side wall of the large storage building opposite.
+
 #### From Haverfordwest:
 
 Follow the A40 towards Fishguard.
 Turn left at the roundabout before entering Fishguard onto the by-pass following signs for the Ferry terminal.
 Turn left at the roundabout at the bottom of the by-pass following the sea front towards the Ferry terminal.
-At the next roundabout turn left again and follow the A487 towards St Davids for approximately 1 mile until you reach the signs for Ivybridge on your left.
+At the next roundabout turn left again and follow the A487 towards St Davids for approximately 1 mile until you reach the turn for Ivybridge on your left (see above).
 
 #### From Cardigan:
 
 Follow the A487 from Cardigan into Fishguard via the small picturesque harbor at Lower Town.
 Turn right at the roundabout at the center of Fishguard (Second Exit).
 Follow the road through Fishguard and into Goodwick (turning right again at the Fishguard by-pass roundabout).
-At the next roundabout turn left and follow the A487 towards St Davids for approximately a mile until you reach the signs for Ivybridge on your left.
+At the next roundabout turn left and follow the A487 towards St Davids for approximately a mile until you reach the turn for Ivybridge on your left (see above).
 
 #### From St Davids:
 
 Follow the A487 from St Davids until you reach Goodwick.
-The Ivybridge is on your right after entering the 30mph speed limit.
+Turn right off the A487 at the old seafront helter skelter (see above).
 
