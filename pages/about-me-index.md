@@ -6,11 +6,9 @@ tilestag: tiles-about-me
 permalink: /about-me/index.html
 image: /images/uploads/profile_head_squarecropped_weboptimised.jpg
 intro_paragraph: |-
-  My name is Paul Burdon. I am a degree-qualified, authentic Traditional Acupuncturist, treating people in Cardiff, when I qualified in 2012, then in Pembrokeshire I provide individualised, patient-centred care focused on what matters to you.
-
-  After experiencing profound changes in my life brought about by someone else's skill and care, I was inspired to dedicate my life to helping others in the same way. 
+  My name is Paul Burdon. I am a degree-qualified, authentic Traditional Acupuncturist, treating people in Cardiff, when I qualified in 2012, then in Pembrokeshire I provide individualised, patient-centred care focused on what matters to you. 
   
-  Helping people to be free from ill health or emotional challenge by using Acupuncture and Tai Chi has been my passion since the early 2010s.
+  After experiencing profound changes in my life brought about by someone else's skill and care, I was inspired to dedicate my life to helping others in the same way. Using Acupuncture and Tai Chi to help people to be free from ill health or emotional stress has been my passion since then.
 
   ### Current professional roles
 
