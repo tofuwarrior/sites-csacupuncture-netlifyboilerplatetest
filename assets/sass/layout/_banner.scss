@@ -180,10 +180,18 @@
 		@include breakpoint('<=large') {
 			min-height: 35em;
 			height: 60vh;
+		}
 
+		@include breakpoint('large') {
 			> article {
 				h2 {
-					font-size: 2.25em;
+					font-size: 3.75em;
+					line-height: 1.2;
+				}
+
+				p {
+					font-size: 205%;
+					line-height: 1.55;
 				}
 			}
 		}
