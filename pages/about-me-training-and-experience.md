@@ -20,7 +20,7 @@ I have an integrated training in the two main schools of thinking in authentic T
 
 * BA (Hons) 2.1 in Psychology
 
-I am a member of the British Acupuncture Council, the largest regulatory body for authentic Traditional Acupuncturists in the UK. 
+I am a [member of the British Acupuncture Council](/about-me/professional-standards.html).
 
 
 ### Specialist Paediatric Training

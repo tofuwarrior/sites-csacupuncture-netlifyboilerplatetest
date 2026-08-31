@@ -6,4 +6,4 @@ href: /about-me/insurance.html
 customtags:
   - tiles-about-me
 ---
-Research shows that Acupuncture is one of the safest forms of medicine.  I also hold full professional insurance.
+Full professional insurance as a BAcC member. [Professional standards →](/about-me/professional-standards.html)

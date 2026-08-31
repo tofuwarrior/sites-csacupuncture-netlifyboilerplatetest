@@ -6,7 +6,7 @@ permalink: /where-are-the-clinics.html
 ---
 ** I have recently moved to Pembrokeshire and am practising in Goodwick near Fishguard. If you have seen me in Cardiff and are needing more treatment, please do get in touch, I love hearing from my past patients, and I will be very happy to recommend some good people in Cardiff who can help you.**
 
-**My main clinic day is currently Wednesday, as the practise grows I will add more days.At the moment, depending on the availability of clinic space, I am able to be fairly flexible.**
+**My clinic days are currently Wednesday and Thursday.** Depending on the availability of clinic space, I may sometimes be able to offer additional appointments — please get in touch if you cannot find a suitable slot.
 
 
 ### Ivybridge Spa

@@ -4,5 +4,5 @@ sidebar_align: right
 title: Testimonials
 permalink: /about-me/testimonials.html
 intro_paragraph: |
-  Over 8 years of practise people have kindly sent me messages or done reviews for me.
+  Since qualifying in 2012, people have kindly sent me messages or left reviews about their experience of treatment.
 ---
