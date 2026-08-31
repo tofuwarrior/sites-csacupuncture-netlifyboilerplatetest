@@ -6,4 +6,4 @@ darkback: true
 customtags:
   - slider-home-main
 ---
-Combining the ancient knowledge of Traditional Acupuncture with contemporary scientific research, individualised care that improves your fertility.
+Combining the trusted tradition of high-standards Acupuncture with contemporary scientific research. Individualised care that enhances your fertility.

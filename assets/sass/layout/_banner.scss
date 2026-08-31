@@ -87,12 +87,14 @@
 			visibility: hidden;
 			width: 100%;
 			z-index: 0;
+			@include vendor('display', 'flex');
+			@include vendor('align-items', 'center');
+			@include vendor('justify-content', 'center');
+			padding: 2em 1.5em;
+			box-sizing: border-box;
 
 			&:before {
-				content: '';
-				display: inline-block;
-				height: 100%;
-				vertical-align: middle;
+				display: none;
 			}
 
 			&:after {
@@ -110,9 +112,10 @@
 
 			.inner {
 				position: relative;
-				display: inline-block;
-				vertical-align: middle;
+				display: block;
 				z-index: 1;
+				max-width: 52em;
+				width: 90%;
 
 				> :last-child {
 					margin-bottom: 0;
@@ -178,34 +181,52 @@
 		}
 
 		@include breakpoint('<=medium') {
-			min-height: 50em;
-			height: 75vh;
+			min-height: 32em;
+			height: 70vh;
 
 			> article {
 				background-attachment: scroll;
+
+				h2 {
+					font-size: 4em;
+					line-height: 1.2;
+				}
+
+				p {
+					font-size: 210%;
+					line-height: 1.5;
+				}
 			}
 		}
 
 		@include breakpoint('<=small') {
-			min-height: 25em;
+			min-height: 22em;
+			height: 50vh;
 
 			> article {
+				background-attachment: scroll;
+				background-position: center center;
+				padding: 5.5em 1em 2em;
+
 				.inner {
 					width: 90%;
+					max-width: 36em;
 				}
 
 				h2 {
-					font-size: 1.75em;
-					line-height: 1.25em;
+					font-size: 2.25em;
+					line-height: 1.2;
+					margin-bottom: 0.35em;
+				}
+
+				p {
+					font-size: 115%;
+					line-height: 1.35;
 				}
 			}
-                        > article.alignright {
-                            background-position: center right;
-                            
-                        }
+                        > article.alignright,
                         > article.alignleft {
-                            background-position: center left;
-                            
+                            background-position: center center;
                         }
 		}
 
