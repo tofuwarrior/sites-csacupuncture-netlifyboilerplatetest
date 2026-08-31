@@ -5,6 +5,7 @@
 [build.environment]
   JEKYLL_ENV = "production"
   NODE_VERSION = "24"
+  GIT_LFS_ENABLED = "true"
 
 # REDIRECT and HEADERS examples.
 # Uncomment to use. Directives in this file will ALWAYS override any identical
