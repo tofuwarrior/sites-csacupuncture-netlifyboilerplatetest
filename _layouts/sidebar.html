@@ -32,7 +32,7 @@ layout: default
 			<!-- Content -->
 				<div class="content">
                                  {% unless layout.display-title == false %}   <h2>{{page.title}}</h2> {% endunless %}
-                                        {% if page.image %}
+                                        {% if page.image and layout.display-title != false %}
                                                 <span class="image right">
                                                         <img src="{{ site.baseurl }}{{ page.image }}?nf_resize=fit&w=551" alt="{{ page.title }}">
                                                 </span>

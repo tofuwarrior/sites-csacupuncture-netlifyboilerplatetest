@@ -31,7 +31,12 @@ display-title: false
 
 <!-- Content -->
 	<header class="major">
-		<div class="inner">   
+		<div class="inner">
+			{% if page.image %}
+				<span class="image right">
+					<img src="{{ site.baseurl }}{{ page.image }}?nf_resize=fit&w=551" alt="{{ page.title | escape }}" />
+				</span>
+			{% endif %}
                     <h2> {{ page.title | escape}}</h2>
                   {% include page-intro.html %}
                 </div>
