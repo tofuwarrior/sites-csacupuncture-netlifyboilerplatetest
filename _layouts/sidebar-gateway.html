@@ -35,7 +35,7 @@ display-title: false
 			{% if page.image %}
 				<span class="image right">
 					{% if page.image_2x %}
-					<img src="{{ site.baseurl }}{{ page.image }}" srcset="{{ site.baseurl }}{{ page.image }} 1x, {{ site.baseurl }}{{ page.image_2x }} 2x" width="551" height="551" alt="{{ page.title | escape }}" />
+					<img src="{{ site.baseurl }}{{ page.image }}" srcset="{{ site.baseurl }}{{ page.image }} 1x, {{ site.baseurl }}{{ page.image_2x }} 2x" width="551" height="551" style="height:auto;aspect-ratio:1/1;" alt="{{ page.title | escape }}" />
 					{% else %}
 					<img src="{{ site.baseurl }}{{ page.image }}?nf_resize=fit&w=551" alt="{{ page.title | escape }}" />
 					{% endif %}
