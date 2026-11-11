@@ -4,7 +4,8 @@ sidebar_align: right
 title: About me
 tilestag: tiles-about-me
 permalink: /about-me/index.html
-image: /images/uploads/profile_head_squarecropped_weboptimised.jpg
+image: /images/uploads/paul-profile-clinic-551.webp
+image_2x: /images/uploads/paul-profile-clinic-1102.webp
 intro_paragraph: |-
   My name is Paul Burdon. I am a degree-qualified, authentic Traditional Acupuncturist. Working in Goodwick near Fishguard, I help people in Pembrokeshire & Ceredigion. I qualified in 2012, I provide individualised, patient-centred care focused on what matters to you. 
   
